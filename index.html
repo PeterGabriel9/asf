@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TEST ASF DISTRIBUITOR</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>TEST ASF DISTRIBUITOR</h1>
+            <div class="progress-info">
+                <span id="progress">Întrebarea 1 din 40</span>
+                <span id="score">Răspunsuri corecte: 0</span>
+            </div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+        </header>
+
+        <main>
+            <div id="questionContainer" class="question-container">
+                <div class="question-number" id="questionNumber">1.</div>
+                <div class="question-text" id="questionText">Se încarcă întrebarea...</div>
+                
+                <div class="answers" id="answersContainer">
+                    <!-- Răspunsurile vor fi generate dinamic -->
+                </div>
+                
+                <div class="controls">
+                    <button id="backToHomeBtn" class="btn btn-secondary">🏠 Înapoi la meniu</button>
+                    <button id="prevBtn" class="btn btn-secondary" disabled>Înapoi</button>
+                    <button id="nextBtn" class="btn btn-primary" disabled>Următoarea</button>
+                </div>
+            </div>
+
+            <div id="resultsContainer" class="results-container hidden">
+                <h2>Rezultate finale</h2>
+                <div class="final-score" id="finalScore"></div>
+                <div class="results-details" id="resultsDetails"></div>
+                <div class="controls">
+                    <button id="restartBtn" class="btn btn-primary">Reiau chestionarul</button>
+                    <button id="reviewBtn" class="btn btn-secondary">Revizuiesc răspunsurile</button>
+                    <button id="backToSelectionBtn" class="btn btn-secondary">Aleg alt chestionar</button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
