@@ -205,6 +205,20 @@ h1 {
     transform: translateY(-2px);
 }
 
+.btn-warning {
+    background: linear-gradient(135deg, #f39c12, #e67e22);
+    color: white;
+    border: none;
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-warning:hover {
+    background: linear-gradient(135deg, #e67e22, #d35400);
+    transform: translateY(-1px);
+    box-shadow: 0 6px 20px rgba(243, 156, 18, 0.4);
+}
+
 .hidden {
     display: none;
 }
@@ -425,6 +439,114 @@ h1 {
     pointer-events: none;
 }
 
+.review-hint-container {
+    margin: 15px 0;
+}
+
+/* Stiluri pentru dropdown */
+.review-dropdown {
+    position: relative;
+    margin: 15px 0;
+}
+
+.dropdown-btn {
+    width: 100%;
+    background: linear-gradient(135deg, #3498db, #2980b9);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 15px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 0.95em;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(52, 152, 219, 0.3);
+}
+
+.dropdown-btn:hover {
+    background: linear-gradient(135deg, #2980b9, #1f4e79);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(52, 152, 219, 0.4);
+}
+
+.dropdown-icon {
+    font-size: 1.2em;
+    margin-right: 8px;
+}
+
+.dropdown-text {
+    flex: 1;
+    text-align: left;
+}
+
+.dropdown-arrow {
+    font-size: 0.8em;
+    transition: transform 0.3s ease;
+}
+
+.dropdown-content {
+    background: linear-gradient(135deg, #fff3cd, #ffeaa7);
+    border: 1px solid #ffc107;
+    border-radius: 8px;
+    margin-top: 8px;
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(255, 193, 7, 0.2);
+}
+
+.dropdown-content.show {
+    max-height: 100px;
+    opacity: 1;
+    padding: 12px 15px;
+}
+
+.dropdown-answer {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.wrong-label {
+    color: #856404;
+    font-size: 0.9em;
+    font-weight: 500;
+}
+
+.wrong-answer {
+    color: #dc3545;
+    font-weight: 600;
+    font-size: 0.95em;
+    padding: 8px 12px;
+    background: rgba(220, 53, 69, 0.1);
+    border-radius: 6px;
+    border-left: 3px solid #dc3545;
+}
+
+.review-hint-container.hidden {
+    display: none;
+}
+
+/* Animație pentru butonul de revizuire */
+.btn-warning::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    transition: left 0.5s;
+}
+
+.btn-warning:hover::before {
+    left: 100%;
+}
+
+/* Responsive pentru hint-uri */
 @media (max-width: 600px) {
     .container {
         padding: 15px;
@@ -474,5 +596,21 @@ h1 {
     
     .result-date {
         text-align: center;
+    }
+    
+    .dropdown-btn {
+        flex-direction: column;
+        text-align: center;
+        gap: 8px;
+        padding: 10px 12px;
+    }
+    
+    .dropdown-text {
+        font-size: 0.9em;
+    }
+    
+    .wrong-answer {
+        font-size: 0.9em;
+        padding: 6px 10px;
     }
 }

@@ -12,7 +12,9 @@ class QuizApp {
         this.liveFeedback = true;
         this.hasAnsweredCurrent = false;
         this.needsCorrectAnswer = false; // Nou: indică dacă trebuie să aleagă răspunsul corect
-        this.wrongAnswers = []; // Nou: listă cu întrebările greșite
+        this.wrongAnswers = []; // Nou: listă cu întrebările greșite (indexuri în chestionarul curent)
+        this.wrongQuestions = []; // Nou: lista cu întrebările complete greșite pentru revizuire
+        this.isReviewMode = false; // Nou: flag pentru modul de revizuire întrebări greșite
         
         this.loadAllQuestions();
         this.initializeEventListeners();
@@ -50,11 +52,19 @@ class QuizApp {
         }
         
         selectionContainer.classList.remove('hidden');
+        
+        // Calculează numărul de întrebări greșite
+        const wrongQuestionsCount = this.getSavedWrongQuestions().length;
+        const reviewButtonText = wrongQuestionsCount > 0 
+            ? `🔄 Revizuiește greșelile (${wrongQuestionsCount})`
+            : `🔄 Revizuiește greșelile`;
+        
         selectionContainer.innerHTML = `
             <h2>Selectează chestionarul</h2>
             <p>Total întrebări: ${this.allQuestions.length} | Chestionare disponibile: ${this.totalQuizzes}</p>
             <div class="stats-controls">
                 <button id="viewStatsBtn" class="btn btn-secondary" onclick="quizApp.showStats()">📊 Vezi statistici generale</button>
+                <button id="reviewWrongBtn" class="btn btn-warning" onclick="quizApp.startWrongQuestionsReview()">${reviewButtonText}</button>
                 <button id="clearDataBtn" class="btn btn-secondary" onclick="quizApp.confirmClearData()">🗑️ Șterge toate datele</button>
             </div>
             <div class="quiz-list">
@@ -236,6 +246,8 @@ class QuizApp {
             this.clearSavedProgress(i);
             localStorage.removeItem(`quiz_results_${i}`);
         }
+        // Șterge și întrebările greșite
+        this.clearWrongQuestions();
     }
 
     displayCurrentQuestion() {
@@ -248,8 +260,13 @@ class QuizApp {
         this.needsCorrectAnswer = false; // RESETEAZĂ întotdeauna la schimbarea întrebării
         
         // Actualizează informațiile de progres
-        document.getElementById('progress').textContent = 
-            `Întrebarea ${this.currentQuestionIndex + 1} din ${this.questions.length}`;
+        if (this.isReviewMode) {
+            document.getElementById('progress').textContent = 
+                `🔄 Revizuire greșeli: ${this.currentQuestionIndex + 1} din ${this.questions.length}`;
+        } else {
+            document.getElementById('progress').textContent = 
+                `Întrebarea ${this.currentQuestionIndex + 1} din ${this.questions.length}`;
+        }
         document.getElementById('score').textContent = 
             `Răspunsuri corecte: ${this.correctAnswers}`;
         
@@ -260,6 +277,13 @@ class QuizApp {
         // Afișează întrebarea
         document.getElementById('questionNumber').textContent = `${this.currentQuestionIndex + 1}.`;
         document.getElementById('questionText').textContent = question.intrebare;
+
+        // Afișează hint pentru întrebările de revizuire
+        if (this.isReviewMode && question.wrongAnswerText) {
+            this.showReviewHint(question.wrongAnswerText);
+        } else {
+            this.hideReviewHint();
+        }
 
         // Generează răspunsurile
         this.displayAnswers(question.raspunsuri);
@@ -356,6 +380,12 @@ class QuizApp {
                 // A greșit - trebuie să aleagă răspunsul corect
                 this.needsCorrectAnswer = true;
                 this.wrongAnswers.push(this.currentQuestionIndex);
+                
+                // Salvează întrebarea greșită pentru revizuire (doar dacă nu e deja salvată)
+                if (!this.isReviewMode) {
+                    this.saveWrongQuestion(this.questions[this.currentQuestionIndex], answerIndex);
+                }
+                
                 document.getElementById('nextBtn').disabled = true;
                 document.getElementById('nextBtn').textContent = 'Alege răspunsul corect!';
             } else {
@@ -435,6 +465,59 @@ class QuizApp {
                 }
             }
         });
+    }
+
+    saveWrongQuestion(question, wrongAnswerIndex) {
+        // Obține întrebările greșite existente
+        let wrongQuestions = this.getSavedWrongQuestions();
+        
+        // Verifică dacă întrebarea nu e deja salvată (evită dublurile)
+        const isAlreadySaved = wrongQuestions.some(wq => wq.nr === question.nr);
+        
+        if (!isAlreadySaved) {
+            const wrongQuestionData = {
+                ...question,
+                wrongAnswerIndex: wrongAnswerIndex,
+                wrongAnswerText: question.raspunsuri[wrongAnswerIndex].replace('*', '').trim(),
+                dateAdded: new Date().toISOString()
+            };
+            
+            wrongQuestions.push(wrongQuestionData);
+            localStorage.setItem('wrong_questions', JSON.stringify(wrongQuestions));
+        }
+    }
+
+    getSavedWrongQuestions() {
+        const saved = localStorage.getItem('wrong_questions');
+        return saved ? JSON.parse(saved) : [];
+    }
+
+    clearWrongQuestions() {
+        localStorage.removeItem('wrong_questions');
+    }
+
+    startWrongQuestionsReview() {
+        const wrongQuestions = this.getSavedWrongQuestions();
+        
+        if (wrongQuestions.length === 0) {
+            alert('🎉 Felicitări! Nu ai întrebări greșite de revizuit!');
+            return;
+        }
+        
+        // Setează modul de revizuire
+        this.isReviewMode = true;
+        this.questions = wrongQuestions;
+        this.currentQuizNumber = 'REVIEW';
+        this.currentQuestionIndex = 0;
+        this.correctAnswers = 0;
+        this.wrongAnswers = [];
+        this.initializeAnswers();
+        
+        // Ascunde selecția și afișează chestionarul
+        document.getElementById('quizSelectionContainer').classList.add('hidden');
+        document.getElementById('questionContainer').classList.remove('hidden');
+        
+        this.displayCurrentQuestion();
     }
 
     confirmBackToHome() {
@@ -520,6 +603,13 @@ class QuizApp {
             container.appendChild(answerDiv);
         });
 
+        // Afișează hint pentru întrebările de revizuire
+        if (this.isReviewMode && question.wrongAnswerText) {
+            this.showReviewHint(question.wrongAnswerText);
+        } else {
+            this.hideReviewHint();
+        }
+
         // Actualizează butoanele pentru modul revizuire
         const prevBtn = document.getElementById('prevBtn');
         const nextBtn = document.getElementById('nextBtn');
@@ -556,9 +646,13 @@ class QuizApp {
         this.userAnswers = [];
         this.correctAnswers = 0;
         this.isQuizCompleted = false;
+        this.isReviewMode = false; // Ieși din modul de revizuire
         
         document.getElementById('resultsContainer').classList.add('hidden');
         document.getElementById('questionContainer').classList.add('hidden');
+        
+        // Ascunde hint-ul de revizuire dacă e vizibil
+        this.hideReviewHint();
         
         // Restaurează comportamentul normal al butoanelor
         document.getElementById('nextBtn').onclick = null;
@@ -630,6 +724,57 @@ class QuizApp {
             this.clearAllData();
             alert('Toate datele au fost șterse!');
             this.showQuizSelection();
+        }
+    }
+
+    showReviewHint(wrongAnswerText) {
+        let hintContainer = document.getElementById('reviewHintContainer');
+        if (!hintContainer) {
+            hintContainer = document.createElement('div');
+            hintContainer.id = 'reviewHintContainer';
+            hintContainer.className = 'review-hint-container';
+            
+            // Adaugă după textul întrebării
+            const questionText = document.getElementById('questionText');
+            questionText.parentNode.insertBefore(hintContainer, questionText.nextSibling);
+        }
+
+        hintContainer.innerHTML = `
+            <div class="review-dropdown">
+                <button class="dropdown-btn" onclick="quizApp.toggleDropdown()">
+                    <span class="dropdown-icon">💡</span>
+                    <span class="dropdown-text">Vrei să vezi ce ai ales ultima dată?</span>
+                    <span class="dropdown-arrow">▼</span>
+                </button>
+                <div class="dropdown-content" id="dropdownContent">
+                    <div class="dropdown-answer">
+                        <span class="wrong-label">Anterior ai ales:</span>
+                        <span class="wrong-answer">"${wrongAnswerText}"</span>
+                    </div>
+                </div>
+            </div>
+        `;
+        
+        hintContainer.classList.remove('hidden');
+    }
+
+    toggleDropdown() {
+        const dropdownContent = document.getElementById('dropdownContent');
+        const dropdownArrow = document.querySelector('.dropdown-arrow');
+        
+        if (dropdownContent.classList.contains('show')) {
+            dropdownContent.classList.remove('show');
+            dropdownArrow.textContent = '▼';
+        } else {
+            dropdownContent.classList.add('show');
+            dropdownArrow.textContent = '▲';
+        }
+    }
+
+    hideReviewHint() {
+        const hintContainer = document.getElementById('reviewHintContainer');
+        if (hintContainer) {
+            hintContainer.classList.add('hidden');
         }
     }
 }
