@@ -13,7 +13,7 @@
     "intrebare": "Selecția riscurilor presupune:",
     "raspunsuri": [
       "a) asiguratul își poate alege riscurile pe care le lasă în seama asigurătorului",
-      "b) *anumitc riscuri pot fi excluse sau pot fi cuprinse în asigurare, în condiții tarifare corespunzătoare",
+      "b) *anumite riscuri pot fi excluse sau pot fi cuprinse în asigurare, în condiții tarifare corespunzătoare",
       "c) asigurătorul este obligat să aleagă anumite riscuri"
     ]
   },
@@ -21,7 +21,7 @@
     "nr": "3",
     "intrebare": "Ce presupune selecția adversă a riscurilor?",
     "raspunsuri": [
-      "a) asiguratul își poate alege riscurile pe care le lasă în scama asigurătorului",
+      "a) asiguratul își poate alege riscurile pe care le lasă în seama asigurătorului",
       "b) anumite riscuri pot fi excluse sau pot fi cuprinse în condiții tarifare deosebite",
       "c) * probabilitatea mai ridicată de a încheia o asigurare de către persoanele supuse la riscuri mai mari"
     ]
@@ -32,15 +32,15 @@
     "raspunsuri": [
       "a) riscuri naturale și riscuri artificiale",
       "b) riscuri antropogene și riscuri neutrogene",
-      "c) *riscuri asigurabile și riscuri neasigurabilc sau excluse"
+      "c) *riscuri asigurabile și riscuri neasigurabile sau excluse"
     ]
   },
   {
     "nr": "5",
-    "intrebare": "Printre caracteristicile riscului asigur abil se numără:",
+    "intrebare": "Printre caracteristicile riscului asigurabil se numără:",
     "raspunsuri": [
       "a) să fie natural sau antropogen, să se producă în grupuri mici și eterogene",
-      "b) *să poată li măsurat în termeni financiari, să afecteze grupuri mari și omogene, să fie un risc pur, să fie fortuit",
+      "b) *să poată fi măsurat în termeni financiari, să afecteze grupuri mari și omogene, să fie un risc pur, să fie fortuit",
       "c) are probabilitate de producere relativ constantă în timp"
     ]
   },
@@ -55,7 +55,7 @@
   },
   {
     "nr": "7",
-    "intrebare": "Riscurile care decurg din conducerea vehiculelor sub influența al colului nu sunt asigurabile deoarece:",
+    "intrebare": "Riscurile care decurg din conducerea vehiculelor sub influența alcoolului nu sunt asigurabile deoarece:",
     "raspunsuri": [
       "a) *sunt riscuri care decurg dintr-o ilegalitate",
       "b) nu se poate estima valoarea pagubelor",
@@ -86,14 +86,14 @@
     "raspunsuri": [
       "a) un risc la care probabilitatea de producere este relativ constantă în timp",
       "b) *un risc la care există doar două alternative: pierdere sau fără pierdere",
-      "c) un risc la care probabilitatea de producere sc modifică în timp"
+      "c) un risc la care probabilitatea de producere se modifică în timp"
     ]
   },
   {
     "nr": "11",
     "intrebare": "Achiziționarea de acțiuni la bursă reprezintă un risc:",
     "raspunsuri": [
-      "a) *spcculativ",
+      "a) *speculativ",
       "b) dinamic",
       "c) static"
     ]
@@ -113,7 +113,7 @@
     "raspunsuri": [
       "a) *o formă clasică de transfer al riscului de la asigurați la companii specializate, denumite asigurători",
       "b) un concept care definește posibilitatea de prevenire a producerii unor catastrofe",
-      "c) o practică prin care oamenii sc îmbogățesc, dacă riscurile pe care au pariat s-au produs"
+      "c) o practică prin care oamenii se îmbogățesc, dacă riscurile pe care au pariat s-au produs"
     ]
   },
   {
@@ -138,7 +138,7 @@
     "nr": "16",
     "intrebare": "Contractantul asigurării este:",
     "raspunsuri": [
-      "a) *pcrsoana care încheie contractul de asigurare, obligându-sc față de asigurător să plătească prima dc asigurare",
+      "a) *persoana care încheie contractul de asigurare, obligându-se față de asigurător să plătească prima de asigurare",
       "b) persoana care încasează despăgubirea în caz de producere a evenimentului asigurat",
       "c) exclusiv proprietarul bunului asigurat"
     ]
@@ -165,7 +165,7 @@
     "nr": "19",
     "intrebare": "Supraasigurarea se referă la:",
     "raspunsuri": [
-      "a) posibilitatea pc care o arc asiguratul dc a primi o despăgubire mai marc decât valoarea bunului asigurat",
+      "a) posibilitatea pe care o are asiguratul de a primi o despăgubire mai mare decât valoarea bunului asigurat",
       "b) *asigurarea bunului la o sumă asigurată mai mare decât valoarea reală a acestuia",
       "c) asigurarea unui bun la o valoare mai mică decât valoarea reală a acestuia"
     ]
@@ -183,8 +183,8 @@
     "nr": "21",
     "intrebare": "Un rol al asigurării este:",
     "raspunsuri": [
-      "a) *repunerea asiguratului în situația financiară în care se atla înainte de producerea evenimentului asigurat",
-      "b) de a îmbunătății situația financiară a asiguratului sau a beneficiarului asigurării, după caz",
+      "a) *repunerea asiguratului în situația financiară în care se afla înainte de producerea evenimentului asigurat",
+      "b) de a îmbunătăți situația financiară a asiguratului sau a beneficiarului asigurării, după caz",
       "c) să împiedice apariția unui eveniment neplăcut"
     ]
   },
@@ -220,8 +220,8 @@
     "intrebare": "Principiul despăgubirii la prim risc se referă la faptul că:",
     "raspunsuri": [
       "a) asigurătorul despăgubește numai primul risc care s-a produs în perioada asigurată",
-      "b) asigurătorul despăgubește întreaga daună numai dacă contractul a fost încheiat tară franșiză",
-      "c) *asigurătorul despăgubește întreaga daună, indiferent de raportul dintre suina asigurată și valoarea reală a bunului, în limita sumei asigurate"
+      "b) asigurătorul despăgubește întreaga daună numai dacă contractul a fost încheiat fără franșiză",
+      "c) *asigurătorul despăgubește întreaga daună, indiferent de raportul dintre suma asigurată și valoarea reală a bunului, în limita sumei asigurate"
     ]
   },
   {
@@ -300,9 +300,9 @@
     "nr": "34",
     "intrebare": "în cazul contractelor de reasigurare neproporționale, reasiguratorul răspunde:",
     "raspunsuri": [
-      "a) *numai pentru daunele a căror valoare este mai marc decât cele aflate în răspunderea reasiguratului",
+      "a) *numai pentru daunele a căror valoare este mai mare decât cele aflate în răspunderea reasiguratului",
       "b) pentru faptul că nu se aplică principiul proporționalității",
-      "c) ncproporțional cu sumele asigurate"
+      "c) neproporțional cu sumele asigurate"
     ]
   },
   {
@@ -338,15 +338,15 @@
     "raspunsuri": [
       "a) respectarea Regulamentului pentru prevenirea spălării banilor și finanțarea terorismului",
       "b) respectarea prevederilor Regulamentului privind protecția datelor cu caracter personal",
-      "c) *rcglcmcntarc. autorizarc/avizarc, monitorizare, supraveghere și control pentru toți participanții din piața de asigurări"
+      "c) *reglementare. autorizare/avizare, monitorizare, supraveghere și control pentru toți participanții din piața de asigurări"
     ]
   },
   {
     "nr": "39",
     "intrebare": "în funcție de formele de asigurare pe care le practică, asigurătorii pot fi:",
     "raspunsuri": [
-      "a) asigurători care vând polițe de asigurare numai în România și asigurători care vând polițe de asigurare în statele membre UF",
-      "b) *asigurători dc viață, asigurători non-viață și asigurători compoziți",
+      "a) asigurători care vând polițe de asigurare numai în România și asigurători care vând polițe de asigurare în statele membre UE",
+      "b) *asigurători de viață, asigurători non-viață și asigurători compoziți",
       "c) asigurători care oferă polițe facultative și asigurători care oferă polițe obligatorii"
     ]
   },
@@ -354,7 +354,7 @@
     "nr": "40",
     "intrebare": "Intermediarul în asigurări este:",
     "raspunsuri": [
-      "a) *pcrsoana fizică sau juridică, care desfășoară activitatea dc distribuție dc asigurări în schimbul unei remunerații",
+      "a) *persoana fizică sau juridică, care desfășoară activitatea de distribuție de asigurări în schimbul unei remunerații",
       "b) persoana juridică care preia riscurile cedate de un alt asigurător",
       "c) persoana juridică care desfășoară activitatea de distribuție de asigurări auxiliare"
     ]
@@ -381,7 +381,7 @@
     "nr": "43",
     "intrebare": "Unul dintre avantajele reasigurării este:",
     "raspunsuri": [
-      "a) *divcrsificarca portofoliului asigurătorului",
+      "a) *diversificarea portofoliului asigurătorului",
       "b) creșterea gradului de cuprindere în asigurare",
       "c) o mai bună acoperire a riscurilor asigurate"
     ]
@@ -392,7 +392,7 @@
     "raspunsuri": [
       "a) broker în asigurări",
       "b) subasistent",
-      "c) *nu există o categoric dc intermediar secundar compatibilă cu categoria agentului de asigurare"
+      "c) *nu există o categorie de intermediar secundar compatibilă cu categoria agentului de asigurare"
     ]
   },
   {
@@ -410,16 +410,16 @@
     "raspunsuri": [
       "a) obiective",
       "b) *subiective",
-      "c) ncasigurabilc"
+      "c) ncasigurabile"
     ]
   },
   {
     "nr": "47",
     "intrebare": "Riscul de inundații intră în categoria riscurilor:",
     "raspunsuri": [
-      "a) *obieetive",
+      "a) *obiective",
       "b) subiective",
-      "c) ncasigurabilc"
+      "c) ncasigurabile"
     ]
   },
   {
@@ -446,7 +446,7 @@
     "raspunsuri": [
       "a) statice",
       "b) *dinamice",
-      "c) ncasigurabilc"
+      "c) ncasigurabile"
     ]
   },
   {
@@ -498,7 +498,7 @@
     "nr": "56",
     "intrebare": "Accesul specialiștilor la surse variate de date pentru calculul riscurilor asigură:",
     "raspunsuri": [
-      "a) transformarea operațiunilor, a finanțelor și a modului de implicare a clicnților",
+      "a) transformarea operațiunilor, a finanțelor și a modului de implicare a clienților",
       "b) *o vedere mai amplă asupra profilului de risc",
       "c) dezvoltarea unei gândiri creative, ample și generarea de idei predictive"
     ]
@@ -516,7 +516,7 @@
     "nr": "58",
     "intrebare": "Care este misiunea Fundației Institutul de Studii Financiare?",
     "raspunsuri": [
-      "a) protejarea creditorilor dc asigurări dc consecințele insolvcnțci unui asigurător",
+      "a) protejarea creditorilor de asigurări de consecințele insolvcnțci unui asigurător",
       "b) despăgubirea rezidenților români care au suferit prejudicii ca urmare a accidentelor produse pe teritoriul altor state",
       "c) *studicrca fenomenelor și mecanismelor financiare pentru specializarea și evaluarea profesională continuă a personalului din sistemul financiar ncbancar"
     ]
@@ -541,9 +541,9 @@
   },
   {
     "nr": "61",
-    "intrebare": "Care sunt tipurile de contracte încheiate de intermediari, reglementate de legislația aplicabilă privind distribuția de asigurări, pentru desfășurarea activității dc distribuție?",
+    "intrebare": "Care sunt tipurile de contracte încheiate de intermediari, reglementate de legislația aplicabilă privind distribuția de asigurări, pentru desfășurarea activității de distribuție?",
     "raspunsuri": [
-      "a) contractul dc asigurare și contractul dc intermediere",
+      "a) contractul de asigurare și contractul de intermediere",
       "b) contractului de muncă și contractul de intermediere",
       "c)* mandatul de brokeraj și mandatul de intermediere"
     ]
@@ -559,11 +559,11 @@
   },
   {
     "nr": "63",
-    "intrebare": "Mandatul dc brokeraj este contractul:",
+    "intrebare": "Mandatul de brokeraj este contractul:",
     "raspunsuri": [
       "a)* dintre un client (persoană juridică sau persoană fizică) și compania de brokeraj prin care clientul îi încredințează acesteia reprezentarea intereselor sale privind obținerea și negocierea celor mai bune oferte în vederea încheierii contractelor de asigurare și/sau de reasigurare, acordarea de asistență înainte și pe durata gestionării contractelor",
       "b) contractul de muncă definit de Norma A.S.F. nr. 22/2021 ca fiind contractul dintre un client (persoană juridică sau persoană fizică) și compania de brokeraj",
-      "c) contractul de colaborare încheiat de agenți cu una sau mai multe societăți, în vederea desfășurării activității de distribuție. în numele acesteia, respectiv acestora și de acordare a asistenței pe toată durată contractului dc asigurare"
+      "c) contractul de colaborare încheiat de agenți cu una sau mai multe societăți, în vederea desfășurării activității de distribuție. în numele acesteia, respectiv acestora și de acordare a asistenței pe toată durată contractului de asigurare"
     ]
   },
   {
@@ -597,8 +597,8 @@
     "nr": "67",
     "intrebare": "Există vreo dislincție între distribuitorul de asigurări și intermediarul de asigurări?",
     "raspunsuri": [
-      "a)* da, deoarece asigurătorul și intermediarul dc asigurări auxiliare sunt incluși în categoria distribuitorului dc asigurări, dar nu și în cea a intermediarului de asigurări",
-      "b) da, deoarece asigurătorul și intermediarul dc asigurări auxiliare sunt incluși doar în categoria intermediarului dc asigurare, ncintrând și în categoria distribuitorului de asigurări",
+      "a)* da, deoarece asigurătorul și intermediarul de asigurări auxiliare sunt incluși în categoria distribuitorului de asigurări, dar nu și în cea a intermediarului de asigurări",
+      "b) da, deoarece asigurătorul și intermediarul de asigurări auxiliare sunt incluși doar în categoria intermediarului de asigurare, neintrând și în categoria distribuitorului de asigurări",
       "c) cele două noțiuni sunt identice și se referă la entitățile care realizează distribuția produselor de asigurare"
     ]
   },
@@ -613,9 +613,9 @@
   },
   {
     "nr": "69",
-    "intrebare": "Indicați dacă există situație de incompatibilitate între intermediarii principali și intermediarii secundari prevăzuți de legislație care deslașoară activitate de distribuție, pe lângă canalele proprii de distribuție, după caz, și prin intermediul conducerii executive, precum și al angajaților implicați în activitatea dc distribuție, precum și angajații sau conducerea executivă a acestora:",
+    "intrebare": "Indicați dacă există situație de incompatibilitate între intermediarii principali și intermediarii secundari prevăzuți de legislație care deslașoară activitate de distribuție, pe lângă canalele proprii de distribuție, după caz, și prin intermediul conducerii executive, precum și al angajaților implicați în activitatea de distribuție, precum și angajații sau conducerea executivă a acestora:",
     "raspunsuri": [
-      "a) nu, deoarece în baza libertății dc stabilire și a prestării serviciilor, aceștia pot îndeplini mai multe calități în același timp",
+      "a) nu, deoarece în baza libertății de stabilire și a prestării serviciilor, aceștia pot îndeplini mai multe calități în același timp",
       "b)* da, potrivit prevederilor legale, aceste calități sunt incompatibile între ele",
       "c) aceste calități sunt compatibile, pentru ca aceștia pot fi înscriși în registrul distribuitorilor de asigurări"
     ]
@@ -732,7 +732,7 @@
     "nr": "82",
     "intrebare": "Precizați dacă în acordarea consultanței sunt relevante complexitatea produsului de asigurare propus și tipul de client căruia i se adresează:",
     "raspunsuri": [
-      "a) depinde dc situație",
+      "a) depinde de situație",
       "b)* da, acordarea consultanței trebuie adecvată în funcție de aceste aspecte",
       "c) este inutilă acordarea consultanței dacă clientul are mai multe contracte de asigurare încheiate de același distribuitor"
     ]
@@ -742,7 +742,7 @@
     "intrebare": "Dacă clienții nu au optat pentru consultantă, atunci sunt exceptate de la acordarea consultanței următoarele categorii de asigurări:",
     "raspunsuri": [
       "a) o asemenea excepție lipsește din prevederile legale în vigoare aplicabile distribuției de asigurări",
-      "b)* asigurarea dc răspundere civilă auto pentru utilizarea vehiculelor auto terestre, prevăzută în anexa nr. 1 \"Clasele dc asigurare\" secțiunea A \"Asigurări generale\" pct. 10 din Legea nr. 237/2015, fără a include și răspunderea transportatorului: asigurarea dc răspundere civilă profesională, asigurarea medicala dc călătorii în străinătate, asigurarea obligatorie a locuințelor, alte asigurări impuse dc legislația în vigoare, precum si asigurările distribuite prin comercializare electronică",
+      "b)* asigurarea de răspundere civilă auto pentru utilizarea vehiculelor auto terestre, prevăzută în anexa nr. 1 \"Clasele de asigurare\" secțiunea A \"Asigurări generale\" pct. 10 din Legea nr. 237/2015, fără a include și răspunderea transportatorului: asigurarea de răspundere civilă profesională, asigurarea medicala de călătorii în străinătate, asigurarea obligatorie a locuințelor, alte asigurări impuse de legislația în vigoare, precum si asigurările distribuite prin comercializare electronică",
       "c) doar asigurările distribuite prin comercializare electronică, pentru că acolo nu există contact față-în-față cu clientul"
     ]
   },
@@ -751,16 +751,16 @@
     "intrebare": "Când sunt distribuitorii în asigurări și/sau reasigurări obligați să acorde consultanță?",
     "raspunsuri": [
       "a) de fiecare dată când le cere asigurătorul sau intermediarul principal, pentru că acționează sub directa îndrumare a acestora",
-      "b) când propun consumatorului un produs complex dc asigurare, cum ar fi un produs dc investiție bazat pc asigurare",
-      "c)* pentru toate produsele dc asigurare, indiferent dacă sunt asigurări generale sau dc viață, cu excepția produselor dc asigurare exceptate în mod expres și numai dacă potențialul client nu dorește consultanță"
+      "b) când propun consumatorului un produs complex de asigurare, cum ar fi un produs de investiție bazat pe asigurare",
+      "c)* pentru toate produsele de asigurare, indiferent dacă sunt asigurări generale sau de viață, cu excepția produselor de asigurare exceptate în mod expres și numai dacă potențialul client nu dorește consultanță"
     ]
   },
   {
     "nr": "85",
     "intrebare": "Ce sunt produsele de investiție bazate pe asigurări?",
     "raspunsuri": [
-      "a) produse dc asigurare care au apărut recent în legislație, ncavând încă o consacrare legislativă",
-      "b) produsele dc asigurare create dc asigurător în colaborare cu o firmă dc investiții",
+      "a) produse de asigurare care au apărut recent în legislație, neavând încă o consacrare legislativă",
+      "b) produsele de asigurare create de asigurător în colaborare cu o firmă de investiții",
       "c)* produse din categoria asigurărilor de viață care oferă o valoare la scadență sau o valoare de răscumpărare expusă parțial sau integral, direct sau indirect, fluctuațiilor pieței"
     ]
   },
@@ -775,18 +775,18 @@
   },
   {
     "nr": "87",
-    "intrebare": "în cazul produselor de investiții bazate pc asigurări este necesar ca:",
+    "intrebare": "în cazul produselor de investiții bazate pe asigurări este necesar ca:",
     "raspunsuri": [
-      "a) să sc convingă clientul să aleagă un produs dc asigurare care aduce o remunerație mai marc distribuitorului dc asigurare, având în vedere munca depusă, ținându-se cont și dc capacitatea financiară a clientului",
-      "b) produsul să fie prezentat clientului numai dc către distribuitorul în asigurări și/sau reasigurări care deține o certificare profesională în domeniul instrumentelor și investițiilor financiare",
-      "c)* recomandarea adecvată a produsului dc investiții bazat pc asigurări să vizeze toleranța la risc și capacitatea clientului dc a suporta pierderi financiare ca urmare a achiziționării respectivului produs"
+      "a) să se convingă clientul să aleagă un produs de asigurare care aduce o remunerație mai mare distribuitorului de asigurare, având în vedere munca depusă, ținându-se cont și de capacitatea financiară a clientului",
+      "b) produsul să fie prezentat clientului numai de către distribuitorul în asigurări și/sau reasigurări care deține o certificare profesională în domeniul instrumentelor și investițiilor financiare",
+      "c)* recomandarea adecvată a produsului de investiții bazat pe asigurări să vizeze toleranța la risc și capacitatea clientului de a suporta pierderi financiare ca urmare a achiziționării respectivului produs"
     ]
   },
   {
     "nr": "88",
     "intrebare": "Când apare situația unei vânzări combinate?",
     "raspunsuri": [
-      "a) când sc combină mai mulți asigurători pentru a elabora un produs dc asigurare pc care apoi îl distribuie prin rețeaua proprie dc vânzare",
+      "a) când se combină mai mulți asigurători pentru a elabora un produs de asigurare pe care apoi îl distribuie prin rețeaua proprie de vânzare",
       "b)* când este furnizat un produs de asigurare împreună cu un serviciu sau un produs auxiliar, care nu este o asigurare, și care compun același pachet sau același acord",
       "c) când mai mulți distribuitori de produse de asigurare se combină pentru a prezenta un produs complex unui potențial client sau client"
     ]
@@ -795,7 +795,7 @@
     "nr": "89",
     "intrebare": "Care sunt documentele de informare precontractuală care conțin informațiile cheie și care su t specifice în funcție de tipul pro tisului de asigurare?\tn\td",
     "raspunsuri": [
-      "a)* document dc informare standardizat, denumit PID, document dc informare standardizat, denumit K1D și document dc informare privind produsul dc asigurare",
+      "a)* document de informare standardizat, denumit PID, document de informare standardizat, denumit KID și document de informare privind produsul de asigurare",
       "b) document de informare standardizat, denumit PID, respectiv documentul de informare standardizat, denumit KID",
       "el document de informare privind produsul de asigurare cu indicarea tipului specific de produs"
     ]
@@ -804,7 +804,7 @@
     "nr": "90",
     "intrebare": "Care este termenul general de denunțare de către client a unui contract încheiat la distanță?",
     "raspunsuri": [
-      "a) 30 dc zile calendaristice",
+      "a) 30 de zile calendaristice",
       "b) 10 zile calendaristice",
       "c)* 14 zile calendaristice, cu excepția asigurărilor de viață și RCA"
     ]
@@ -820,7 +820,7 @@
   },
   {
     "nr": "92",
-    "intrebare": "Care este locul încheierii contractului dc asigurare atunci când contractul sc încheie la distanță, inclusiv prin mijloace electronice?",
+    "intrebare": "Care este locul încheierii contractului de asigurare atunci când contractul se încheie la distanță, inclusiv prin mijloace electronice?",
     "raspunsuri": [
       "a) stabilirea locului în care se încheie contractul de asigurare nu este necesară pentru că această informație nu prezintă relevanță",
       "b)* va fi locul unde își are sediul ofertantul contractului, așadar sediul distribuitorului de asigurări, la momentul când se primește acceptarea nfrrtri din nnrtrn rlicntnhii",
@@ -829,10 +829,10 @@
   },
   {
     "nr": "93",
-    "intrebare": "Ce sc întâmplă dacă compania dc brokeraj sau agentul dc asigurare nu depun la asigurător sumele încasate cu titlu dc prime dc asigurare și sc produc riscurile acoperite prin contractele încheiate?",
+    "intrebare": "Ce se întâmplă dacă compania de brokeraj sau agentul de asigurare nu depun la asigurător sumele încasate cu titlu de prime de asigurare și se produc riscurile acoperite prin contractele încheiate?",
     "raspunsuri": [
       "a) asigurătorul va refuza să plătească indemnizația asiguratului sau, după caz, despăgubirea terțului păgubit, deoarece este culpa companiei dr hrntrrai sau a înmiitului de aciinirarp",
-      "b)* asigurătorul este obligat să plătească indemnizația asiguratului sau, după caz, despăgubirea terțului păgubit, deoarece asiguratul sau tcrtul nu au nicio cuină nentru situațiile arătate",
+      "b)* asigurătorul este obligat să plătească indemnizația asiguratului sau, după caz, despăgubirea terțului păgubit, deoarece asiguratul sau terțul nu au nicio vină pentru situațiile arătate",
       "c) asigurătorul poate alege să plătească sau să refuze indemnizația asiguratului sau, după caz, despăgubirea terțului păgubit"
     ]
   },
@@ -851,7 +851,7 @@
     "raspunsuri": [
       "a) persoana juridică ale cărei date cu caracter personal sunt prelucrate",
       "b)* persoana fizică ale cărei date cu caracter personal sunt prelucrate",
-      "c) noțiunea dc persoană vizată arc legătură cu domeniul legislației penale, nu arc nicio legătură cu regulamentul GDPR sau cu protecția datelor"
+      "c) noțiunea de persoană vizată are legătură cu domeniul legislației penale, nu are nicio legătură cu regulamentul GDPR sau cu protecția datelor"
     ]
   },
   {
@@ -904,8 +904,8 @@
     "intrebare": "Care din următoarele variante nu constituie obligație în legătură cu combaterea spălării banilor și finanțarea terorismului?",
     "raspunsuri": [
       "a) numirea ofițerilor de conformitate și a persoanelor desemnate",
-      "b)* obligația de a acorda consultanță pentru distribuția dc asigurări",
-      "c) obligația dc cunoaștere a clientelei"
+      "b)* obligația de a acorda consultanță pentru distribuția de asigurări",
+      "c) obligația de cunoaștere a clientelei"
     ]
   },
   {
@@ -930,7 +930,7 @@
     "nr": "104",
     "intrebare": "Privind piețele de asigurări din țările dezvoltate, se poate afirma faptul că acestea:",
     "raspunsuri": [
-      "a)* sc caracterizează printr-un anumit nivel dc echilibru, au rate relativ mici dc creștere, grad ridicat dc competitivitate, iar preocuparea principală a distribuitorilor dc asigurări este îndreptată în direcția rctcnțici, a conservării portofoliilor dc clicnți, principalele activități fiind cele legate dc acțiunile post-vânzarc, precum campanii dc cross-scll și up-scll",
+      "a)* se caracterizează printr-un anumit nivel de echilibru, au rate relativ mici de creștere, grad ridicat de competitivitate, iar preocuparea principală a distribuitorilor de asigurări este îndreptată în direcția rctcnțici, a conservării portofoliilor de clienți, principalele activități fiind cele legate de acțiunile post-vânzarc, precum campanii de cross-scll și up-scll",
       "b) se află într-un plin proces de creștere, cele mai multe strategii ale asigurătorilor sunt îndreptate în direcția achizițiilor agresive de clienți și a dezvoltării portofoliilor de clienți corporale, cu accent preponderent pe campanii de cross-sell și up-sell, respectiv a retenției clienților pentru care nu s-au înregistrat daune",
       "c) se află într-un proces constant de selecție a clienților pentru care nu s-au înregistrat daune"
     ]
@@ -1011,7 +1011,7 @@
     "nr": "113",
     "intrebare": "Despre încrederea clientului în sistemul de asigurări, în general, și în distribuitorul în asigurări și/sau reasigurări, în particular, se poate afirma că:",
     "raspunsuri": [
-      "a)* sc clădește treptat, \"materia sa primă” fiind corectitudinea, profesionalismul și preocuparea continuă a distribuitorului în asigurări și/sau reasigurări privind interesele clicnților săi, adică un înalt nivel etic al distribuitorului în asigurări și/sau reasigurări",
+      "a)* se clădește treptat, \"materia sa primă” fiind corectitudinea, profesionalismul și preocuparea continuă a distribuitorului în asigurări și/sau reasigurări privind interesele clienților săi, adică un înalt nivel etic al distribuitorului în asigurări și/sau reasigurări",
       "b) este un element important doar la încheierea asigurărilor facultative, nu și a celor obligatorii",
       "c) distribuitorul în asigurări și/sau reasigurări este preocupat continuu de interesele clienților săi care achiziționează doar produse de asigurare de viață"
     ]
@@ -1040,16 +1040,16 @@
     "raspunsuri": [
       "a)* distribuitori în asigurări și/sau reasigurări care returnează către client o parte din comisionul cuvenit, ca modalitate de a \"recompensa” decizia clientului de a achiziționa o anumită soluție de protecție financiară",
       "b) vânzarea produselor de asigurare de către distribuitorii în asigurări și/sau reasigurări autorizați",
-      "c) vânzarea dc asigurări după cerințele, necesitățile și dorințele clicnților"
+      "c) vânzarea de asigurări după cerințele, necesitățile și dorințele clienților"
     ]
   },
   {
     "nr": "117",
-    "intrebare": "Precizați care variantă reprezintă, pentru distribuitorului în asigurări și/sau reasigurări, un exemplu dc comportament considerat ca fiind ncctic:",
+    "intrebare": "Precizați care variantă reprezintă, pentru distribuitorului în asigurări și/sau reasigurări, un exemplu de comportament considerat ca fiind ncctic:",
     "raspunsuri": [
       "a)* convingerea unui client să renunțe la una sau mai multe contracte de asigurare, pe care le deține. în favoarea unei soluții financiare noi, inferioare calitativ, dar mai recompensante pentru distribuitorul în asigurări și/sau reasigurări",
-      "b) prezentarea clientului a unei soluții financiare integrate, care cuprinde oferte dc la mai mulți asigurători",
-      "c) încercarea distribuitorului în asigurări și/sau reasigurări dc a explica clientului utilitatea unei soluții complexe dc protecție financiară"
+      "b) prezentarea clientului a unei soluții financiare integrate, care cuprinde oferte de la mai mulți asigurători",
+      "c) încercarea distribuitorului în asigurări și/sau reasigurări de a explica clientului utilitatea unei soluții complexe de protecție financiară"
     ]
   },
   {
@@ -1063,7 +1063,7 @@
   },
   {
     "nr": "119",
-    "intrebare": "Precizați varianta dc răspuns care indică un exemplu dc comportament al distribuitorului în asigurări și/sau reasigurări, considerat ca fiind neetic:",
+    "intrebare": "Precizați varianta de răspuns care indică un exemplu de comportament al distribuitorului în asigurări și/sau reasigurări, considerat ca fiind neetic:",
     "raspunsuri": [
       "al* oferirea unor răspunsuri incorecte sau incomplete, din dorința de a-l convinge mai ușor pe client să achiziționeze un anumit produs de asigurare",
       "b) accentuarea distincției dintre sumele garantate ale asigurării (mai mici) și cele estimate (mai consistente și doar probabile ca realizare) în cazul polițelor de asigurare de viață cu capitalizare",
@@ -1155,16 +1155,16 @@
     "nr": "129",
     "intrebare": "Printre beneficiile unui comportament etic, la nivelul distribuitorului în asigurări și/sau reasigurări, se înscrie:",
     "raspunsuri": [
-      "a)* creșterea gradului dc încredere al asigurărilor în distribuitorul în asigurări și/sau reasigurări, primii înțelegând faptul că distribuitorul în asigurări și/sau reasigurări a depus toate eforturile pentru a le satisface cerințele și necesitățile",
+      "a)* creșterea gradului de încredere al asigurărilor în distribuitorul în asigurări și/sau reasigurări, primii înțelegând faptul că distribuitorul în asigurări și/sau reasigurări a depus toate eforturile pentru a le satisface cerințele și necesitățile",
       "b) scăderea gradului de încredere al asigurărilor în distribuitorul în asigurări și/sau reasigurări",
       "c) scăderea gradului de retenție al consumatorilor de produse de asigurare"
     ]
   },
   {
     "nr": "130",
-    "intrebare": "Printre beneficiile unui comportament etic al distribuitorului în asigurări și/sau reasigurări sc numără:",
+    "intrebare": "Printre beneficiile unui comportament etic al distribuitorului în asigurări și/sau reasigurări se numără:",
     "raspunsuri": [
-      "a) gradul scăzut dc retenție al clicnților la nivelul portofoliului acestor distribuitori în asigurări și/sau reasigurări",
+      "a) gradul scăzut de retenție al clienților la nivelul portofoliului acestor distribuitori în asigurări și/sau reasigurări",
       "b)* gradul ridicat de retenție al clienților la nivelul portofoliului acestor distribuitori în asigurări și/sau reasigurări",
       "c) eliminarea clienților care au istoric cu valori ridicate ale indemnizației de asigurare"
     ]
@@ -1173,7 +1173,7 @@
     "nr": "131",
     "intrebare": "Comportamentul etic al unui distribuitor în asigurări și/sau reasigurări poate conduce la:",
     "raspunsuri": [
-      "a)* retenția clienților, concretizată în dezvoltarea unei relații pc termen lung, ce deschide oportunități în ceea cc privește acoperirea necesităților financiare viitoare ale clienților (oportunități dc upp-scll și cross-scll)",
+      "a)* retenția clienților, concretizată în dezvoltarea unei relații pe termen lung, ce deschide oportunități în ceea cc privește acoperirea necesităților financiare viitoare ale clienților (oportunități de upp-scll și cross-scll)",
       "b) îndepărtarea potențialilor clienți noi, pe seama \"publicității negative\" tăcute de către cei existenți",
       "c) scăderea gradului de încredere al asiguraților în distribuitorul în asigurări și/sau reasigurări"
     ]
@@ -1184,16 +1184,16 @@
     "raspunsuri": [
       "a)* un nivel consistent, stabil și predictibil de venituri din comisioane și bonusuri, la nivelul distribuitorului în asigurări și/sau reasigurări",
       "b) un grad extrem de scăzut de împlinire și satisfacție atât profesională, cât și personală",
-      "c) un nivel crescut la veniturilor realizate ca urmare a bonusurilor primite dc la clienți"
+      "c) un nivel crescut la veniturilor realizate ca urmare a bonusurilor primite de la clienți"
     ]
   },
   {
     "nr": "133",
     "intrebare": "Printre beneficiile unui comportament etic la nivelul distribuitorului în asigurări și/sau reasigurări se înscrie:",
     "raspunsuri": [
-      "a) un nivel redus, instabil și imprcdictibil dc venituri din comisioane și bonusuri",
+      "a) un nivel redus, instabil și imprcdictibil de venituri din comisioane și bonusuri",
       "b)* un grad ridicat de împlinire și satisfacție atât profesională, cât și personală a distribuitorului în asigurări și/sau reasigurări",
-      "c) un grad extrem dc scăzut dc împlinire și satisfacție atât profesională, cât și personală"
+      "c) un grad extrem de scăzut de împlinire și satisfacție atât profesională, cât și personală"
     ]
   },
   {
@@ -1202,7 +1202,7 @@
     "raspunsuri": [
       "a)* marea majoritate a clienților nu înțelege prevederile acestuia",
       "b) marea majoritate a clienților înțelege prevederile acestuia",
-      "c) marca majoritate a clienților înțelege prevederile contractuale doar dacă este vorba dc o asigurare generală"
+      "c) marca majoritate a clienților înțelege prevederile contractuale doar dacă este vorba de o asigurare generală"
     ]
   },
   {
@@ -1211,7 +1211,7 @@
     "raspunsuri": [
       "a)* practica ce implică vânzarea forțată a unor polițe care nu sunt neapărat necesare și nici dorite de către clienți. exclusiv în scopul obținerii de comisioane",
       "b) practica în care un distribuitor în asigurări și/sau reasigurări face o prezentare eronată a unei asigurări deținute deja de către client, pentru a-1 convinge să înlocuiască acea poliță cu una nouă, mai avantajoasă ca și comisionare pentru distribuitorul în asigurări și/sau reasigurări",
-      "c) practica cc implică împărțirea comisionului între distribuitorul în asigurări și/sau reasigurări și clientul său. ca clement dc \"motivare” pentru cel din urmă, ajungându-se, astfel, la o primă de asigurare redusă"
+      "c) practica cc implică împărțirea comisionului între distribuitorul în asigurări și/sau reasigurări și clientul său. ca clement de \"motivare” pentru cel din urmă, ajungându-se, astfel, la o primă de asigurare redusă"
     ]
   },
   {
@@ -1227,14 +1227,14 @@
     "nr": "137",
     "intrebare": "Una dintre practicile neetice, întâlnite în piața de asigurări, este așa-numita \"împărțirea comisionului” (commission sharing) . Care dintre următoarele variante o definește corect?",
     "raspunsuri": [
-      "a) practica ce implică vânzarea forțată a unor produse dc asigurare care nu sunt neapărat necesare și nici dorite dc către clicnți, exclusiv în scopul obținerii dc comisioane",
+      "a) practica ce implică vânzarea forțată a unor produse de asigurare care nu sunt neapărat necesare și nici dorite de către clienți, exclusiv în scopul obținerii de comisioane",
       "b) practica în care un distribuitor în asigurări și/sau reasigurări face o prezentare eronată a unei asigurări deținute deja de către client, pentru a-1 convinge să înlocuiască acea asigurare cu una nouă, mai avantajoasă privind comisionul urmărit",
       "c)* practica ce implică împărțirea comisionului între distribuitorul în asigurări și/sau reasigurări și clientul său, ca element de \"motivare” pentru cel din urmă, ajungându-se, astfel, la o primă de asigurare mai mică"
     ]
   },
   {
     "nr": "138",
-    "intrebare": "Conform legislației aplicabile privind conduita distribuitorilor în asigurări și/sau reasigurări, asigurătorii și intermediarii principali au obligația să își revizuiască Codurile dc Etice (Codurile de Conduită) existente sau să elaboreze astfel dc documente în care să includă cele mai bune practici la care să se raporteze distribuitorii în asigurări și/sau reasigurări.\nIndicați standardele ce trebuie să se regăsească în aceste Coduri Etice (Coduri de Conduită):",
+    "intrebare": "Conform legislației aplicabile privind conduita distribuitorilor în asigurări și/sau reasigurări, asigurătorii și intermediarii principali au obligația să își revizuiască Codurile de Etice (Codurile de Conduită) existente sau să elaboreze astfel de documente în care să includă cele mai bune practici la care să se raporteze distribuitorii în asigurări și/sau reasigurări.\nIndicați standardele ce trebuie să se regăsească în aceste Coduri Etice (Coduri de Conduită):",
     "raspunsuri": [
       "a) numai integritatea, expertiza și profesionalismul",
       "b) numai respectarea confidențialității, transparența, concurența loială și acordarea consultanței",
@@ -1279,7 +1279,7 @@
   },
   {
     "nr": "143",
-    "intrebare": "Conform legislației aplicabile privind conduita distribuitorilor în asigurări și/sau reasigurări, clementul care se referă la faptul că distribuitorul trebuie să se pregătească profesional în mod continuu, să-și completeze nivelul dc cunoștințe și să-ți dezvolte abilitățile necesare interacțiunii cu clicnții la cele mai înalte niveluri calitative este standardul privind:",
+    "intrebare": "Conform legislației aplicabile privind conduita distribuitorilor în asigurări și/sau reasigurări, clementul care se referă la faptul că distribuitorul trebuie să se pregătească profesional în mod continuu, să-și completeze nivelul de cunoștințe și să-ți dezvolte abilitățile necesare interacțiunii cu clienții la cele mai înalte niveluri calitative este standardul privind:",
     "raspunsuri": [
       "a) asistența post-vânz.are",
       "b) integritatea",
@@ -1310,7 +1310,7 @@
     "raspunsuri": [
       "a)* suportul moral pe care îl va avea atât persoana asigurată, cât și beneficiarul asigurării, prin achiziția unei asigurări de viață",
       "b) returnarea integrală a primelor plătite în cazul în care evenimentul asigurat nu are loc",
-      "c) posibilitatea dc a schimba persoana asigurată după primul an dc contract"
+      "c) posibilitatea de a schimba persoana asigurată după primul an de contract"
     ]
   },
   {
@@ -1351,10 +1351,10 @@
   },
   {
     "nr": "151",
-    "intrebare": "Privind asigurările dc viață cu componentă dc economisire, precizați care din următoarele afirmații este falsă:",
+    "intrebare": "Privind asigurările de viață cu componentă de economisire, precizați care din următoarele afirmații este falsă:",
     "raspunsuri": [
-      "a)* contractantul poate opta doar pentru componenta dc economisire",
-      "b) pc lângă componenta dc protecție, au și rolul dc a ajuta la acumularea unor sume dc bani",
+      "a)* contractantul poate opta doar pentru componenta de economisire",
+      "b) pe lângă componenta de protecție, au și rolul de a ajuta la acumularea unor sume de bani",
       "c) garantează o anumită sumă asigurată în cazul în care persoana asigurată supraviețuiește până la finalul contractului"
     ]
   },
@@ -1382,7 +1382,7 @@
     "raspunsuri": [
       "a) doar o persoană juridică",
       "b) doar o persoană fizică",
-      "c)* o persoană fizică. în cazul contractelor individuale, sau o persoană juridică. în cazul contractelor individuale sau dc grup"
+      "c)* o persoană fizică. în cazul contractelor individuale, sau o persoană juridică. în cazul contractelor individuale sau de grup"
     ]
   },
   {
@@ -1390,7 +1390,7 @@
     "intrebare": "Care din următoarele afirmații este adevărată:",
     "raspunsuri": [
       "a) contractantul unei asigurări de viață nu poate fi o persoană juridică",
-      "b) beneficiarul unei asigurări dc viață nu poate fi o persoană juridică",
+      "b) beneficiarul unei asigurări de viață nu poate fi o persoană juridică",
       "c)* beneficiarul unei asigurări de viață poate fi o persoană fizică sau juridică"
     ]
   },
@@ -1399,13 +1399,13 @@
     "intrebare": "Beneficiarul asigurării de viață este:",
     "raspunsuri": [
       "a) persoana fizică a cărei viață constituie obiectul asigurării",
-      "b) persoana care, având interes asigurabil cu privire la persoana asigurată. încheie contractul de asigurare împreună cu asigurătorul și care se obligă să plătească primele dc asigurare",
-      "c)* persoana fizică sau juridică, care arc un interes asigurabil și căreia îi va fi oferită indemnizația dc asigurare în momentul în care arc loc evenimentului asigurat"
+      "b) persoana care, având interes asigurabil cu privire la persoana asigurată. încheie contractul de asigurare împreună cu asigurătorul și care se obligă să plătească primele de asigurare",
+      "c)* persoana fizică sau juridică, care are un interes asigurabil și căreia îi va fi oferită indemnizația de asigurare în momentul în care are loc evenimentului asigurat"
     ]
   },
   {
     "nr": "157",
-    "intrebare": "Persoana asigurată prin contractul dc asigurare dc viață este:",
+    "intrebare": "Persoana asigurată prin contractul de asigurare de viață este:",
     "raspunsuri": [
       "a)* persoana fizică a cărei viață constituie obiectul asigurării",
       "b) persoana care, având interes asigurabil privind persoana asigurată. încheie contractul de asigurare împreună cu asigurătorul și care se obligă să plătească primele de asigurare",
@@ -1426,7 +1426,7 @@
     "intrebare": "Data încheierii contractului de asigurare reprezintă:",
     "raspunsuri": [
       "a)* data la care compania de asigurare emite polița de asigurare. în urma a finalizării procesului de evaluare a riscului",
-      "b) data la care a fost semnată cererea dc asigurare și, totodată, momentul în care a fost efectuată și plata primei dc asigurare",
+      "b) data la care a fost semnată cererea de asigurare și, totodată, momentul în care a fost efectuată și plata primei de asigurare",
       "c) data la care încetează obligațiile contractuale pentru toate părțile"
     ]
   },
@@ -1452,9 +1452,9 @@
     "nr": "162",
     "intrebare": "Care dintre următoarele afirmații, privind asigurările de viață, este adevărată:",
     "raspunsuri": [
-      "a)* perioada cuprinsă între data semnării cererii dc asigurare și cea a emiterii acesteia poartă denumirea dc perioadă acoperită limitat",
+      "a)* perioada cuprinsă între data semnării cererii de asigurare și cea a emiterii acesteia poartă denumirea de perioadă acoperită limitat",
       "b) odată emis contractul de asigurare, riscurile vor fi preluate de asigurător începând cu ora 00:00 a zilei următoare emiterii",
-      "c) asigurătorul preia în întregime riscul din momentul în care contractantul a semnat cererea dc asigurare și a efectuat prima plată"
+      "c) asigurătorul preia în întregime riscul din momentul în care contractantul a semnat cererea de asigurare și a efectuat prima plată"
     ]
   },
   {
@@ -1472,12 +1472,12 @@
     "raspunsuri": [
       "a) decesul persoanei asigurate a fost cauzat direct sau indirect de război, război civil, invazie, acțiuni ale altor state",
       "b)* decesul persoanei asigurate s-a produs în urma unei boli grave",
-      "c) decesul persoanei asigurate a fost cauzat dc un act intenționat al beneficiarului"
+      "c) decesul persoanei asigurate a fost cauzat de un act intenționat al beneficiarului"
     ]
   },
   {
     "nr": "165",
-    "intrebare": "Căreia dintre funcțiile asigurării dc viață îi corespunde posibilitatea oferită clientului dc a economisi sau dc a investi pentru a-și putea realiza planurile privind calitatea vieții la pensie sau privind viitorul copiilor?",
+    "intrebare": "Căreia dintre funcțiile asigurării de viață îi corespunde posibilitatea oferită clientului de a economisi sau de a investi pentru a-și putea realiza planurile privind calitatea vieții la pensie sau privind viitorul copiilor?",
     "raspunsuri": [
       "a)* funcției de acumulare de capital",
       "b) funcției de proiecție financiară",
@@ -1490,23 +1490,23 @@
     "raspunsuri": [
       "a) individuale și de familie",
       "b)* individuale și de grup",
-      "c) dc grup și dc familie"
+      "c) de grup și de familie"
     ]
   },
   {
     "nr": "167",
-    "intrebare": "Asigurările dc viață cu componentă dc risc și capitalizare (mixte) sunt:",
+    "intrebare": "Asigurările de viață cu componentă de risc și capitalizare (mixte) sunt:",
     "raspunsuri": [
       "a)* asigurările de viață și asigurările de viață tip Unit Linked",
-      "b) asigurările dc viață tip Unit Linked (cu suma la maturitate negarantată)",
-      "c) asigurările dc viață tradiționale (cu suma la maturitate garantată)"
+      "b) asigurările de viață tip Unit Linked (cu suma la maturitate negarantată)",
+      "c) asigurările de viață tradiționale (cu suma la maturitate garantată)"
     ]
   },
   {
     "nr": "168",
     "intrebare": "Precizați dacă toate tipurile de asigurări de viață includ riscul de deces:",
     "raspunsuri": [
-      "a) cea mai marc parte a lor includ riscul dc dcccs",
+      "a) cea mai mare parte a lor includ riscul de dcccs",
       "b)* da, toate asigurările de viață acoperă obligatoriu riscul de deces",
       "c) depinde de analiza de necesități, clientul putând opta pentru o asigurare de viață fără acoperirea riscului de deces"
     ]
@@ -1524,7 +1524,7 @@
     "nr": "170",
     "intrebare": "Asigurarea de viață pe termen limitat are valoare de răscumpărare?",
     "raspunsuri": [
-      "a) da, doar în situația în care contractantul a optat și pentru componenta dc economisire",
+      "a) da, doar în situația în care contractantul a optat și pentru componenta de economisire",
       "b) da, doar dacă valoarea acumulată în cont este mai mare decât o limită stabilită de asigurător",
       "c)* nu"
     ]
@@ -1544,7 +1544,7 @@
     "raspunsuri": [
       "a)* acest tip de asigurare poate oferi protecție, în unele cazuri, și după vârsta de 95 de ani",
       "b) pentru acest tip de asigurare frecvența de plată nu poate fi modificată",
-      "c) acest tip dc asigurare nu poate deține și o componentă dc acumulare"
+      "c) acest tip de asigurare nu poate deține și o componentă de acumulare"
     ]
   },
   {
@@ -1553,7 +1553,7 @@
     "raspunsuri": [
       "a) durata contractului și suma asigurată",
       "b) vârsta asiguratului și suma asigurată",
-      "c)* durata contractului, vârsta asiguratului, suma asigurată și combinația dc asigurări suplimentare adăugate riscului dc bază"
+      "c)* durata contractului, vârsta asiguratului, suma asigurată și combinația de asigurări suplimentare adăugate riscului de bază"
     ]
   },
   {
@@ -1562,16 +1562,16 @@
     "raspunsuri": [
       "a)* componenta de risc și componenta de capitalizare",
       "b) componenta de economisire și componenta de fonduri de urgență ce acoperă intervenții chirurgicale",
-      "c) componenta dc protecție și componenta dc fonduri dc urgență ce acoperă cheltuielile medicale dc recuperare"
+      "c) componenta de protecție și componenta de fonduri de urgență ce acoperă cheltuielile medicale de recuperare"
     ]
   },
   {
     "nr": "175",
-    "intrebare": "Care din următoarele afirmații reprezintă o caracteristică a asigurării dc studii:",
+    "intrebare": "Care din următoarele afirmații reprezintă o caracteristică a asigurării de studii:",
     "raspunsuri": [
       "a) destinația utilizării fondurilor acumulate de contractant pe parcursul perioadei de economisire este exclusiv pentru acoperirea cheltuielilor legate de studiile copilului",
-      "b) în cazul rezilierii, asigurătorul nu arc obligația dc a acorda o valoare dc răscumpărare",
-      "c)* perioada contractuală este împărțită în două etape, după cum urmează: în prima etapă, contractantul plătește primele dc asigurare, iar în cca dc a doua etapă, beneficiarul primește dc la asigurător rentele dc studii"
+      "b) în cazul rezilierii, asigurătorul nu are obligația de a acorda o valoare de răscumpărare",
+      "c)* perioada contractuală este împărțită în două etape, după cum urmează: în prima etapă, contractantul plătește primele de asigurare, iar în cca de a doua etapă, beneficiarul primește de la asigurător rentele de studii"
     ]
   },
   {
@@ -1579,7 +1579,7 @@
     "intrebare": "Ce este asigurarea de căsătorie?",
     "raspunsuri": [
       "a) un produs financiar asemănător cu asigurarea mixtă de viață, care oferă anuități pe întreaga durată a vieții beneficiarului",
-      "b)* un produs financiar similar cu asigurarea dc studii, dar indemnizația dc asigurare este primită dc copil în momentul căsătoriei sau la împlinirea unei vârste specifice, stabilite diferit de către fiecare asigurător",
+      "b)* un produs financiar similar cu asigurarea de studii, dar indemnizația de asigurare este primită de copil în momentul căsătoriei sau la împlinirea unei vârste specifice, stabilite diferit de către fiecare asigurător",
       "c) un produs financiar, asemănător cu asigurarea de tip Unit Linked, cu o sumă asigurată ce se plătește sub forma unei sume unice"
     ]
   },
@@ -1603,10 +1603,10 @@
   },
   {
     "nr": "179",
-    "intrebare": "Renta cu rată fixă sc plătește:",
+    "intrebare": "Renta cu rată fixă se plătește:",
     "raspunsuri": [
-      "a) pe o perioadă dc doi ani, dacă pe perioada contractului s-au înregistrat creșteri la nivel dc profit",
-      "b) pe o perioadă determinată dc timp, cu condiția ca banii din cont să fie suficicnți",
+      "a) pe o perioadă de doi ani, dacă pe perioada contractului s-au înregistrat creșteri la nivel de profit",
+      "b) pe o perioadă determinată de timp, cu condiția ca banii din cont să fie suficicnți",
       "c)* pe o perioadă determinată de timp, așa cum este stipulat în contractul de asigurare"
     ]
   },
@@ -1668,7 +1668,7 @@
     "nr": "186",
     "intrebare": "Opțiunea de scutire de plată a primelor de asigurare:",
     "raspunsuri": [
-      "a) sc aplică pc o perioadă determinată de timp, la finalul căreia contractantul va relua plata primelor",
+      "a) se aplică pe o perioadă determinată de timp, la finalul căreia contractantul va relua plata primelor",
       "b) oferă beneficiarului o indemnizație ce constă într-o sumă fixă, stabilită încă de la momentul semnării cererii de asigurare, în vederea acoperirii costurilor generate de problemele medicale ce au dus la o incapacitate permanentă de muncă a persoanei asigurate",
       "c)* exonerează contractantul de plata primelor"
     ]
@@ -1715,7 +1715,7 @@
     "raspunsuri": [
       "a) analiza de nevoie este un pas opțional",
       "b) analiza de nevoi presupune și completarea unui chestionar medical privind starea de sănătate a persoanei asigurate",
-      "c)* analiza dc nevoi presupune identificarea nevoii dc protecție personală și a familiei, în caz de deces sau în cazul apariției unor probleme de sănătate"
+      "c)* analiza de nevoi presupune identificarea nevoii de protecție personală și a familiei, în caz de deces sau în cazul apariției unor probleme de sănătate"
     ]
   },
   {
@@ -1747,7 +1747,7 @@
   },
   {
     "nr": "195",
-    "intrebare": "Care sunt evenimentele asigurate prin asigurarea dc viață pe termen limitat'?",
+    "intrebare": "Care sunt evenimentele asigurate prin asigurarea de viață pe termen limitat'?",
     "raspunsuri": [
       "a) decesul din accident",
       "b)* decesul din orice cauză",
@@ -1767,7 +1767,7 @@
     "nr": "197",
     "intrebare": "Tehnica AIDA:",
     "raspunsuri": [
-      "a) este o tehnică dc obținere dc recomandări",
+      "a) este o tehnică de obținere de recomandări",
       "b)* ajută în comunicarea eficientă cu clicntul/prospcctul, în mod special în a-1 determina să acționeze",
       "c) se aplică doar altor produse financiare, diferite de asigurările de viață"
     ]
@@ -1813,7 +1813,7 @@
     "intrebare": "Ce este \"valoarea de răscumpărare\"?",
     "raspunsuri": [
       "a)* reprezintă suma pe care asigurătorul are obligația să o plătească în cazul rezilierii contractului de asigurare. în situațiile specificate în condițiile contractuale",
-      "b) suma de bani pe care asigurătorul o plătește în cazul în care un client solicită rezilierea unei asigurări, cu componentă exclusivă de risc, înainte dc maturitatea poliței",
+      "b) suma de bani pe care asigurătorul o plătește în cazul în care un client solicită rezilierea unei asigurări, cu componentă exclusivă de risc, înainte de maturitatea poliței",
       "c) suma de bani pe care asigurătorul o plătește în cazul în care polița ajunge la maturitate"
     ]
   },
@@ -1822,7 +1822,7 @@
     "intrebare": "Ce este \"perioada de grație\"?",
     "raspunsuri": [
       "a)* perioada de 30. 60 sau 90 de zile în care, dacă polița nu a fost plătită, aceasta rămâne în vigoare, dar acoperirea dată de asigurare diferă în funcție de numărul de zile de întârziere",
-      "b) intervalul dc timp după scadență dc 30, 60 sau 90 zile. în care titularul nu a achitat prima dc asigurare datorată iar polița dc asigurare nu produce efecte",
+      "b) intervalul de timp după scadență de 30, 60 sau 90 zile. în care titularul nu a achitat prima de asigurare datorată iar polița de asigurare nu produce efecte",
       "c) intervalul de timp după scadență de 30, 60 sau 90 zile, în care titularul a achitat parțial prima de asigurare datorată iar polița de asigurare nu produce efecte"
     ]
   },
@@ -1840,7 +1840,7 @@
     "intrebare": "Pentru un asigurător, asigurarea de viață reprezintă:",
     "raspunsuri": [
       "a) o promisiune că va plăti o sumă asigurată către beneficiar, la cererea acestuia",
-      "b) o obligație dc a plăti o sumă asigurată către beneficiar, la cererea beneficiarului",
+      "b) o obligație de a plăti o sumă asigurată către beneficiar, la cererea beneficiarului",
       "c)* o modalitate de preluare a riscului financiar legat de pierderea vieții sau de deteriorarea sănătății unui individ, sau a unui grup de indivizi supuși aceluiași risc"
     ]
   },
@@ -1855,11 +1855,11 @@
   },
   {
     "nr": "207",
-    "intrebare": "Care sunt tipurile de asigurări dc viață care satisfac nevoia de economisire sigură pentru momentele importante din viață?",
+    "intrebare": "Care sunt tipurile de asigurări de viață care satisfac nevoia de economisire sigură pentru momentele importante din viață?",
     "raspunsuri": [
       "a) asigurările de viață de tip Unit Linked",
-      "b) asigurările dc viață cu componentă exclusivă dc protecție financiară",
-      "c)* asigurările dc viață cu sume garantate la capitalizare"
+      "b) asigurările de viață cu componentă exclusivă de protecție financiară",
+      "c)* asigurările de viață cu sume garantate la capitalizare"
     ]
   },
   {
@@ -1884,17 +1884,17 @@
     "nr": "210",
     "intrebare": "Ce este denunțarea unilaterală a contractului de asigurare?",
     "raspunsuri": [
-      "a) o acțiune care poate fi inițiată doar dc contractant și care duce la încetarea contractului dc asigurare",
+      "a) o acțiune care poate fi inițiată doar de contractant și care duce la încetarea contractului de asigurare",
       "b) o acțiune care poate fi inițiată doar de asigurător și care duce la încetarea contractului de asigurare",
-      "c)* o acțiune a contractantului sau a asigurătorului care duce la încetarea contractului dc asigurare"
+      "c)* o acțiune a contractantului sau a asigurătorului care duce la încetarea contractului de asigurare"
     ]
   },
   {
     "nr": "211",
-    "intrebare": "Care sunt asigurările de viață care permit investiții cu un grad sporit de risc și cu posibilități dc câștig mari?",
+    "intrebare": "Care sunt asigurările de viață care permit investiții cu un grad sporit de risc și cu posibilități de câștig mari?",
     "raspunsuri": [
-      "a) asigurările dc viață cu sume garantate la capitalizare",
-      "b)* asigurările dc tip Unit Linkcd",
+      "a) asigurările de viață cu sume garantate la capitalizare",
+      "b)* asigurările de tip Unit Linkcd",
       "c) asigurările de viață cu componentă exclusivă de risc"
     ]
   },
@@ -1927,7 +1927,7 @@
   },
   {
     "nr": "215",
-    "intrebare": "Prin contractul dc asigurare dc viață, sc obligă să plătească primele dc asigurare:",
+    "intrebare": "Prin contractul de asigurare de viață, se obligă să plătească primele de asigurare:",
     "raspunsuri": [
       "a) persoana asigurată",
       "b) beneficiarul",
@@ -1954,7 +1954,7 @@
   },
   {
     "nr": "218",
-    "intrebare": "In situația în care decesul persoanei asigurate arc loc în urma unui act al beneficiarului, pentru care s-a pronunțat o sentință penală împotriva acestuia:",
+    "intrebare": "In situația în care decesul persoanei asigurate are loc în urma unui act al beneficiarului, pentru care s-a pronunțat o sentință penală împotriva acestuia:",
     "raspunsuri": [
       "a)* asigurătorul va plăti beneficiarului valoarea de răscumpărare a contractului de asigurare de viață",
       "b) asigurătorul nu are obligația de a plăti beneficiarului nicio sumă",
@@ -1985,7 +1985,7 @@
     "raspunsuri": [
       "a) o asigurare pe termen limitat, a cărei sumă asigurată crește pe măsură ce clientul achită din credit",
       "b) o asigurare pe termen limitat, a cărei sumă asigurată rămâne constantă pe măsură ce clientul achită din credit",
-      "c)* o asigurare pe termen limitat, a cărei sumă asigurată scade pc măsură cc clientul achită din credit"
+      "c)* o asigurare pe termen limitat, a cărei sumă asigurată scade pe măsură cc clientul achită din credit"
     ]
   },
   {
@@ -2028,7 +2028,7 @@
     "nr": "226",
     "intrebare": "Scopul asigurării RCA este:",
     "raspunsuri": [
-      "a) despăgubirea pentru pagube materiale și vătămările corporale produse persoanei responsabile dc producerea accidentului",
+      "a) despăgubirea pentru pagube materiale și vătămările corporale produse persoanei responsabile de producerea accidentului",
       "b) *despăgubirea pagubelor materiale și vătămările corporale produse terților în urma unui accident, precum și despăgubirea cheltuielilor terților păgubiți în procesul civil",
       "c) acordarea despăgubirii doar pentru pagube materiale și numai terților păgubiți de cetățenie română"
     ]
@@ -2100,7 +2100,7 @@
     "nr": "234",
     "intrebare": "în cazul asigurării RCA, clauza de decontare directă reprezintă gestionarea daunelor direct la:",
     "raspunsuri": [
-      "a) asigurătorul părții responsabile dc producerea accidentului",
+      "a) asigurătorul părții responsabile de producerea accidentului",
       "b) *propriul asigurător unde s-a încheiat asigurarea RCA",
       "c) Biroul Asigurătorilor Auto din România"
     ]
@@ -2109,8 +2109,8 @@
     "nr": "235",
     "intrebare": "Intermediarii și/sau asigurătorii au obligația să informeze asigurați!, respectiv contractanții cu privire la încetarea contractului RCA și la posibilitatea de reînnoire a acestuia cu:",
     "raspunsuri": [
-      "a) *60 dc zile înainte dc încetarea contractului RCA aflat în vigoare",
-      "b) 90 dc zile înainte dc încetarea contractului RCA aflat în vigoare",
+      "a) *60 de zile înainte de încetarea contractului RCA aflat în vigoare",
+      "b) 90 de zile înainte de încetarea contractului RCA aflat în vigoare",
       "c) 30 de zile înainte de încetarea contractului RCA aflat în vigoare"
     ]
   },
@@ -2127,8 +2127,8 @@
     "nr": "237",
     "intrebare": "In cazul asigurării RCA, răspunderea asigurătorului începe:",
     "raspunsuri": [
-      "a) din momentul efectuării inspecției dc risc și a plății primei dc asigurare",
-      "b) din a cincca zi după emiterea contractului dc asigurare RCA",
+      "a) din momentul efectuării inspecției de risc și a plății primei de asigurare",
+      "b) din a cincca zi după emiterea contractului de asigurare RCA",
       "c) *din ziua următoare celei în care s-a încheiat contractul RCA, pentru persoanele care nu aveau o asigurare RCA valabilă la momentul încheierii asigurării"
     ]
   },
@@ -2138,21 +2138,21 @@
     "raspunsuri": [
       "a) *3 zile lucrătoare de la data notificării primite de la persoana prejudiciată, sau la o data ulterioară convenită de părți",
       "b) 30 zile lucrătoare de la data notificării primite de la persoana prejudiciată, sau la o dată ulterioară convenită de părți",
-      "c) maximum 10 zile lucrătoare dc la data notificării primite dc la persoana prejudiciată"
+      "c) maximum 10 zile lucrătoare de la data notificării primite de la persoana prejudiciată"
     ]
   },
   {
     "nr": "239",
-    "intrebare": "Limita dc despăgubire în cazul asigurării RCA este:",
+    "intrebare": "Limita de despăgubire în cazul asigurării RCA este:",
     "raspunsuri": [
       "a) maximum 2 evenimente: unul pentru vătămări corporale și unul pentru prejudicii materiale",
       "b) stabilită prin normele metodologice ale fiecărui asigurător",
-      "c) *un număr nelimitat dc evenimente, în limita despăgubirii înscrise în contractul dc asigurare pentru prejudicii materiale și pentru vătămări corporale"
+      "c) *un număr nelimitat de evenimente, în limita despăgubirii înscrise în contractul de asigurare pentru prejudicii materiale și pentru vătămări corporale"
     ]
   },
   {
     "nr": "240",
-    "intrebare": "La evaluarea inițială a daunelor, rezultate în urma producerii unui eveniment asigurat prin contractul dc asigurare RCA, specialistul constatare daune întocmește:",
+    "intrebare": "La evaluarea inițială a daunelor, rezultate în urma producerii unui eveniment asigurat prin contractul de asigurare RCA, specialistul constatare daune întocmește:",
     "raspunsuri": [
       "a) *procesul-verbal de constatare al daunei",
       "b) avizarea privind dinamica accidentului pe care o înmânează clientului",
@@ -2170,7 +2170,7 @@
   },
   {
     "nr": "242",
-    "intrebare": "în situația în care, la data producerii accidentului, existau mai multe asigurări RCA valabile, plata despăgubirii se face integral dc către:",
+    "intrebare": "în situația în care, la data producerii accidentului, existau mai multe asigurări RCA valabile, plata despăgubirii se face integral de către:",
     "raspunsuri": [
       "a) ^asigurătorul căruia s-a adresat persoana prejudiciată, urmând ca asigurătorul să recupereze, prin acțiune de regres, cotă parte egală din cuantumul despăgubirii achitate de la ceilalți asigurători",
       "b) asigurătorul care a încheiat prima poliță",
@@ -2215,18 +2215,18 @@
   },
   {
     "nr": "247",
-    "intrebare": "Conform prevederilor legale în vigoare, societățile dc asigurare din România tipăresc polițele dc asigurare Carte Verde pe:",
+    "intrebare": "Conform prevederilor legale în vigoare, societățile de asigurare din România tipăresc polițele de asigurare Carte Verde pe:",
     "raspunsuri": [
       "a) suport de hârtie verde",
-      "b) suport dc hârtie verde sau albă",
-      "c) *suport dc hârtie albă"
+      "b) suport de hârtie verde sau albă",
+      "c) *suport de hârtie albă"
     ]
   },
   {
     "nr": "248",
     "intrebare": "Contractul de asigurare Carte Verde este:",
     "raspunsuri": [
-      "a) *un mecanism dc protecție pentru terțe persoane, victime implicate într-un accident rutier transfrontalicr",
+      "a) *un mecanism de protecție pentru terțe persoane, victime implicate într-un accident rutier transfrontalicr",
       "b) un mecanism de protecție pentru victimele aflate în propriul autovehicul implicat într-un accident rutier transfrontalier",
       "c) un mecanism de protecție pentru victimele ambelor autovehicule implicate într-un accident rutier transfrontalier"
     ]
@@ -2244,14 +2244,14 @@
     "nr": "250",
     "intrebare": "Contractul de asigurare Carte Verde este necesar pentru:",
     "raspunsuri": [
-      "a) a evita aglomerația în punctele dc frontieră ale României",
+      "a) a evita aglomerația în punctele de frontieră ale României",
       "b) *a evita necesitatea ca autovehiculele să obțină acoperirea asigurărilor la fiecare dintre frontierele celor 48 de țări membre",
-      "c) a conferii unui utilizator dreptul dc conducere transfrontalier"
+      "c) a conferii unui utilizator dreptul de conducere transfrontalier"
     ]
   },
   {
     "nr": "251",
-    "intrebare": "Asigurarea dc frontieră este necesară:",
+    "intrebare": "Asigurarea de frontieră este necesară:",
     "raspunsuri": [
       "a) celor care doresc să intre pe teritoriul României fără a deține o asigurare RCA valabilă la acea dată",
       "b) celor care dețin o poliță RCA ce urmează să expire, emisă în altă țară",
@@ -2264,7 +2264,7 @@
     "raspunsuri": [
       "a) 30 de zile și nu se poate prelungi pe perioade noi",
       "b) 15 de zile, cu posibilitatea prelungirii pe noi perioade de câte 15 de zile",
-      "c) *30 dc zile, cu posibilitatea prelungirii pe noi perioade dc câte 30 dc zile"
+      "c) *30 de zile, cu posibilitatea prelungirii pe noi perioade de câte 30 de zile"
     ]
   },
   {
@@ -2298,7 +2298,7 @@
     "nr": "256",
     "intrebare": "în cazul societăților de leasing, prima de asigurare pentru asigurarea CASCO este achitată de:",
     "raspunsuri": [
-      "a) societatea dc leasing în calitate dc asigurat",
+      "a) societatea de leasing în calitate de asigurat",
       "b) societatea de leasing și de utilizator, în părți egale",
       "cj* utilizator, deși calitatea de asigurat o are societatea de leasing"
     ]
@@ -2316,7 +2316,7 @@
     "nr": "258",
     "intrebare": "în cazul asigurării facultative CASCO, urmare a producerii unui eveniment asigurat, cuantumul prejudiciului este stabilit:",
     "raspunsuri": [
-      "a) dc către asigurat, prin autoconstatarc",
+      "a) de către asigurat, prin autoconstatarc",
       "b) de către unitatea reparatoare",
       "cj* de către asigurător sau intermediarii autorizați ai acestuia"
     ]
@@ -2336,7 +2336,7 @@
     "raspunsuri": [
       "a) verificarea vehiculului privind: datele de identificare, integritatea, starea de întreținere, realizarea fotografiilor de ansamblu și de detaliu",
       "b)* verificarea vehiculului privind: datele de identificare, integritatea, starea de întreținere, dotările suplimentare, numărul de kilometrii parcurși, fotografii de ansamblu și de detaliu",
-      "c) verificarea documentelor originale dc înmatriculare și a numărului dc kilometri parcurși dc vehicul"
+      "c) verificarea documentelor originale de înmatriculare și a numărului de kilometri parcurși de vehicul"
     ]
   },
   {
@@ -2344,7 +2344,7 @@
     "intrebare": "Procesul de despăgubire în cazul asigurării CASCO, se declanșează:",
     "raspunsuri": [
       "a) odată cu notificarea asigurătorului în maximum 30 zile calendaristice de la data producerii evenimentului",
-      "b) la orice dată dorește asiguratul, asigurarea CASCO, fiind facultativă, nu impune un termen limită dc notificare a evenimentului la asigurător",
+      "b) la orice dată dorește asiguratul, asigurarea CASCO, fiind facultativă, nu impune un termen limită de notificare a evenimentului la asigurător",
       "c)* odată cu notificarea asigurătorului în maximum 3 zile lucrătoare de la dala producerea evenimentului"
     ]
   },
@@ -2359,7 +2359,7 @@
   },
   {
     "nr": "263",
-    "intrebare": "Franșiza specificată într-un contract dc asigurare CASCO reprezintă partea din daună ce urmează a fi suportată de către:",
+    "intrebare": "Franșiza specificată într-un contract de asigurare CASCO reprezintă partea din daună ce urmează a fi suportată de către:",
     "raspunsuri": [
       "a) persoana responsabilă de producerea evenimentului",
       "c) asigurător și asigurat în cote egale",
@@ -2368,7 +2368,7 @@
   },
   {
     "nr": "264",
-    "intrebare": "Intsituația contractului dc asigurare CASCO, în cazul evenimentului dc daună totală, franșiza reprezintă un procent din suma asigurată și es e deductibilă din:",
+    "intrebare": "Intsituația contractului de asigurare CASCO, în cazul evenimentului de daună totală, franșiza reprezintă un procent din suma asigurată și es e deductibilă din:",
     "raspunsuri": [
       "a)* despăgubirea cuvenită asiguratului",
       "b) impozitul anual datorat de asigurat pentru taxe și impozite locale",
@@ -2386,7 +2386,7 @@
   },
   {
     "nr": "266",
-    "intrebare": "In cazul asigurării CASCO, suma dc bani care va fi suportată dc client și scăzută din valoarea despăgubirii, indiferent de valoarea daunei, se numește:",
+    "intrebare": "In cazul asigurării CASCO, suma de bani care va fi suportată de client și scăzută din valoarea despăgubirii, indiferent de valoarea daunei, se numește:",
     "raspunsuri": [
       "a) * franșiza deductibilă",
       "b) franșiză atinsă",
@@ -2417,7 +2417,7 @@
     "raspunsuri": [
       "a) valoarea despăgubirii la data producerii unuia sau mai multor evenimente asigurate",
       "b) * valoarea pentru care se încheie asigurarea și care reprezintă maximul răspunderii asigurătorului în cazul producerii sau apariției unuia sau a mai multor evenimente asigurate",
-      "c) valoarea înscrisă în contract care se acordată asiguratului indiferent dc cuantumul daunei"
+      "c) valoarea înscrisă în contract care se acordată asiguratului indiferent de cuantumul daunei"
     ]
   },
   {
@@ -2469,7 +2469,7 @@
     "nr": "275",
     "intrebare": "Asigurarea facultativă a locuinței vine în completarea asigurării:",
     "raspunsuri": [
-      "a) dc răspundere civilă generală",
+      "a) de răspundere civilă generală",
       "b) * PAD",
       "de răspundere civilă față de terți"
     ]
@@ -2488,7 +2488,7 @@
     "intrebare": "în cazul asigurărilor facultative de locuințe, clădirile ce fac obiectul excluderii în cazul acoperirii de incendiu și calamități naturale pot fi:",
     "raspunsuri": [
       "a)* clădiri expertizate tehnic pentru riscul de cutremur, clădiri în curs de construcție sau nefinalizate, clădiri situate în zone cu istoric de alunecări, prăbușiri de teren sau clădiri de patrimoniu",
-      "b) clădiri noi construite în cartiere rezidențiale cu acces restricționat prin bariere și care pot îngreuna intervenția rapidă a echipajelor dc pompieri",
+      "b) clădiri noi construite în cartiere rezidențiale cu acces restricționat prin bariere și care pot îngreuna intervenția rapidă a echipajelor de pompieri",
       "c) clădirile cu destinație locuințe, care nu sunt încă locuite"
     ]
   },
@@ -2514,7 +2514,7 @@
     "nr": "280",
     "intrebare": "Sumele asigurate standard pentru asigurările PAD sunt:",
     "raspunsuri": [
-      "a) 100.000 LEI, pentru locuința tip B și 50.000 LEI. pentru locuința dc tip A",
+      "a) 100.000 LEI, pentru locuința tip B și 50.000 LEI. pentru locuința de tip A",
       "b) * 100.000 LEI, pentru locuința tip A și 50.000 LEI, pentru locuința de tip B",
       "c) 100.000 LEI, pentru locuința locuită permanent și 50.000 LEI. pentru locuința locuită temporar"
     ]
@@ -2534,12 +2534,12 @@
     "raspunsuri": [
       "a) 10.000 curo",
       "b) *100.000 LEI",
-      "c) stabilită dc client și acceptată dc societatea dc asigurare"
+      "c) stabilită de client și acceptată de societatea de asigurare"
     ]
   },
   {
     "nr": "283",
-    "intrebare": "Asigurarea PAD, pentru o locuința dc tip B, sc încheie pentru suma asigurată:",
+    "intrebare": "Asigurarea PAD, pentru o locuința de tip B, se încheie pentru suma asigurată:",
     "raspunsuri": [
       "a) *50.000 LEI",
       "b) 20.000 curo",
@@ -2559,8 +2559,8 @@
     "nr": "285",
     "intrebare": "0 construcție cu pereți exteriori din cărămidă nearsă sau din orice alte materiale nesupuse unui tratament termic și/sau chimic, pentru a se încheia polița PAD este considerată o locuință:",
     "raspunsuri": [
-      "a) dc tip A",
-      "b)* dc tip B",
+      "a) de tip A",
+      "b)* de tip B",
       "c) de lip C"
     ]
   },
@@ -2575,18 +2575,18 @@
   },
   {
     "nr": "287",
-    "intrebare": "Asigurarea dc călătorie preia riscul pentru:",
+    "intrebare": "Asigurarea de călătorie preia riscul pentru:",
     "raspunsuri": [
       "a)* intervențiile stomatologice de urgență",
       "b) război, terorism, reacții nucleare",
-      "c) afecțiunile dc natură nervoasă sau tulburări psihice preexistente"
+      "c) afecțiunile de natură nervoasă sau tulburări psihice preexistente"
     ]
   },
   {
     "nr": "288",
     "intrebare": "Prin asigurarea de călătorie, asigurătorul oferă protecție și pentru:",
     "raspunsuri": [
-      "a) autovătămârilc provocate cu intenție dc către asigurat",
+      "a) autovătămârilc provocate cu intenție de către asigurat",
       "b) îmbolnăviri sau accidente ca urmare a consumului de băuturi alcoolice, droguri, narcotice sau a consumului abuziv de medicamente",
       "c)* cheltuielile de repatriere în cazul decesului persoanei asigurate"
     ]
@@ -2611,10 +2611,10 @@
   },
   {
     "nr": "291",
-    "intrebare": "Scopul asigurării dc incendiu și alte riscuri pentru activele persoanelor juridice este dc protecția financiară pentru:",
+    "intrebare": "Scopul asigurării de incendiu și alte riscuri pentru activele persoanelor juridice este de protecția financiară pentru:",
     "raspunsuri": [
-      "a) doar avarierea bunurilor asigurate ca urmare a producerii unui eveniment asigurat prin contractul dc asigurare",
-      "b)* avarierea, distrugerea, pierderea bunurilor asigurate ca urmare a producerii unui eveniment asigurat prin contractul dc asigurare",
+      "a) doar avarierea bunurilor asigurate ca urmare a producerii unui eveniment asigurat prin contractul de asigurare",
+      "b)* avarierea, distrugerea, pierderea bunurilor asigurate ca urmare a producerii unui eveniment asigurat prin contractul de asigurare",
       "c) doar distrugerea și pierderea bunurilor asigurate ca urmare a apariției unui eveniment neasigurat prin polița de asigurare"
     ]
   },
@@ -2623,17 +2623,17 @@
     "intrebare": "Asigurarea de incendiu și alte riscuri pentru activele persoanelor juridice acoperă:",
     "raspunsuri": [
       "a) asigurarea imobilelor cu destinație de locuință pentru persoanele juridice",
-      "b)* asigurarea imobilelor și a altor bunuri (mașini, utilaje, instalatii, etc.) destinate desfășurării activităților industriale, comerciale, economice, administrative și social-culturalc",
+      "b)* asigurarea imobilelor și a altor bunuri (mașini, utilaje, instalatii, etc.) destinate desfășurării activităților industriale, comerciale, economice, administrative și social-culturale",
       "c) asigurarea construcțiilor și a altor bunuri împotriva riscului de faliment al anteprenorului"
     ]
   },
   {
     "nr": "293",
-    "intrebare": "Privind asigurarea dc incendiu și alte riscuri pentru activele persoanelor juridice, indicați varianta completă privind obiectul asigurării:",
+    "intrebare": "Privind asigurarea de incendiu și alte riscuri pentru activele persoanelor juridice, indicați varianta completă privind obiectul asigurării:",
     "raspunsuri": [
       "a) cădirilc. alte construcții, mijloacele fixe, bunurile mobile prin natura lor sau prin determinarea legii",
-      "b)* clădirile și alte construcții, mijloacele fixe, stocul dc produse finite, stocul dc materii prime, stocul în procesare",
-      "c) cădirilc și alte construcții, conținutul privind stocul dc produse finite, stocul de materii prime, stocul în procesare, mijloacele mobile"
+      "b)* clădirile și alte construcții, mijloacele fixe, stocul de produse finite, stocul de materii prime, stocul în procesare",
+      "c) cădirilc și alte construcții, conținutul privind stocul de produse finite, stocul de materii prime, stocul în procesare, mijloacele mobile"
     ]
   },
   {
@@ -2650,7 +2650,7 @@
     "intrebare": "în cazul producerii riscului asigurat, deținătorul unei polițe de asigurarea de incendiu și alte riscuri pentru activele persoanelor juridice, trebuie să înainteze:",
     "raspunsuri": [
       "a) cerere către asigurător, în termen rezonabil de la data producerii evenimentului asigurat, pentru deschiderea dosarului de daună și evaluarea prejudiciului",
-      "b) sesizare la Registrul Comerțului, să anunțe ANAF-ul și să sesizeze secția dc poliție cea mai apropiată",
+      "b) sesizare la Registrul Comerțului, să anunțe ANAF-ul și să sesizeze secția de poliție cea mai apropiată",
       "c)* cerere către asigurător, în termenul stipulat în contractul de asigurare de la data producerii evenimentului asigurat, pentru deschiderea dosarului de daună și evaluarea prejudiciului"
     ]
   },
@@ -2674,7 +2674,7 @@
   },
   {
     "nr": "298",
-    "intrebare": "Domeniile dc activitate eligibile pentru Asigurarea Afacerilor Mici și Mijlocii sunt:",
+    "intrebare": "Domeniile de activitate eligibile pentru Asigurarea Afacerilor Mici și Mijlocii sunt:",
     "raspunsuri": [
       "a) producție industrială",
       "b) cercetare, producție industrială și servicii",
@@ -2696,16 +2696,16 @@
     "raspunsuri": [
       "a) doar clădirile și alte construcții, inclusiv mijloacele fixe",
       "b) *clădirile și alte construcții precum și mijloacele fixe, stocul de produse finite, stocul de materii prime, stocul în procesare",
-      "c) doar stocul dc produse finite, stocul dc materii prime, stocul în procesare"
+      "c) doar stocul de produse finite, stocul de materii prime, stocul în procesare"
     ]
   },
   {
     "nr": "301",
-    "intrebare": "Protecția oferită dc poliță dc asigurare a Afacerilor Mici și Mijlocii constă în:",
+    "intrebare": "Protecția oferită de poliță de asigurare a Afacerilor Mici și Mijlocii constă în:",
     "raspunsuri": [
       "a) *asigurarea bunurilor, asigurare riscului de întrerupere a activității, asigurarea de accidente ale angajaților și asigurarea de răspundere civilă",
-      "b) asigurarea bunurilor, asigurarea riscului dc întrerupere a activității și asigurarea dc accidente ale angajaților",
-      "c) asigurarea bunurilor, asigurarea dc accidente a angajaților și asigurarea dc răspundere civilă"
+      "b) asigurarea bunurilor, asigurarea riscului de întrerupere a activității și asigurarea de accidente ale angajaților",
+      "c) asigurarea bunurilor, asigurarea de accidente a angajaților și asigurarea de răspundere civilă"
     ]
   },
   {
@@ -2723,14 +2723,14 @@
     "raspunsuri": [
       "a) contractantul",
       "b) asiguratul",
-      "c) *pcrsoana prejudiciată (terțul)"
+      "c) *persoana prejudiciată (terțul)"
     ]
   },
   {
     "nr": "304",
     "intrebare": "Limita de răspundere a asigurării de Răspundere Civilă reprezintă suma maximă ce poate fi plătită de asigurător asiguratului în cazul producerii unui eveniment asigurat, și poate fi stabilită:",
     "raspunsuri": [
-      "a) *pcntru fiecare eveniment asigurat sau pc întreaga perioadă dc asigurare",
+      "a) *pcntru fiecare eveniment asigurat sau pe întreaga perioadă de asigurare",
       "b) doar pentru fiecare eveniment asigurat",
       "c) doar pentru întreaga perioadă de asigurare"
     ]
@@ -2746,7 +2746,7 @@
   },
   {
     "nr": "306",
-    "intrebare": "Criteriile uzuale, pe baza cărora este dimensionată limita răspunderii pentru asigurarea dc răspunderea civilă, au în vedere:",
+    "intrebare": "Criteriile uzuale, pe baza cărora este dimensionată limita răspunderii pentru asigurarea de răspunderea civilă, au în vedere:",
     "raspunsuri": [
       "a) cerințele legale aplicabile și, în uncie situații, cerințele beneficiarului serviciilor profesionistului",
       "b) doar cerințele legale și propria analiză a asiguratului privind prejudiciile pe care le-ar putea produce",
@@ -2764,7 +2764,7 @@
   },
   {
     "nr": "308",
-    "intrebare": "Prin asigurarea dc răspundere civilă publică sunt acoperite daunele cauzate terților ca urmare a:",
+    "intrebare": "Prin asigurarea de răspundere civilă publică sunt acoperite daunele cauzate terților ca urmare a:",
     "raspunsuri": [
       "a) folosirii sau consumului produselor comercializate",
       "b) problemelor ce pot să apară prin serviciile prestate",
@@ -2773,7 +2773,7 @@
   },
   {
     "nr": "309",
-    "intrebare": "Asigurarea dc răspundere civilă a angajatorului față dc proprii angajați, acoperă pagubele cauzate dc:",
+    "intrebare": "Asigurarea de răspundere civilă a angajatorului față de proprii angajați, acoperă pagubele cauzate de:",
     "raspunsuri": [
       "a) erorile, defecțiunile sau omisiunile angajatului",
       "b) lipsa de pregătire profesională a angajatului sau a profesionalismului acestuia",
@@ -2786,12 +2786,12 @@
     "raspunsuri": [
       "a) producții de cereale și procesarea acestora",
       "b) producții de energie alternativă",
-      "c) * medicamente și alte produse farmaceutice, aparatură medicală, azbest, tutun, instalații dc rccrccrc, produse mecanice și electrice, produse chimice și pesticide"
+      "c) * medicamente și alte produse farmaceutice, aparatură medicală, azbest, tutun, instalații de rccrccrc, produse mecanice și electrice, produse chimice și pesticide"
     ]
   },
   {
     "nr": "311",
-    "intrebare": "Prin asigurarea dc răspundere civilă a angajatorului față dc proprii angajați sc urmărește asigurarea protecției pentru:",
+    "intrebare": "Prin asigurarea de răspundere civilă a angajatorului față de proprii angajați se urmărește asigurarea protecției pentru:",
     "raspunsuri": [
       "a) pierderile financiare provocate de lipsa angajaților",
       "b) *pierderile, cheltuielile legate de răniri, îmbolnăviri determinate de neglijența angajatorului",
@@ -2820,17 +2820,17 @@
     "nr": "314",
     "intrebare": "Asigurările de sănătate se clasifică, în funcție de serviciile medicale acoperite, în:",
     "raspunsuri": [
-      "a) asigurări dc grup și individuale",
+      "a) asigurări de grup și individuale",
       "b) *asigurări de tip complementar și suplimentar",
-      "c) asigurări dc grup"
+      "c) asigurări de grup"
     ]
   },
   {
     "nr": "315",
-    "intrebare": "Asigurările dc sănătate dc tip complementar:",
+    "intrebare": "Asigurările de sănătate de tip complementar:",
     "raspunsuri": [
-      "a) *acopcră copiata datorată dc persoana asigurată, conform prevederilor legale",
-      "b) acoperă total sau parțial plata pentru orice tip dc servicii necuprinse în pachetul dc servicii medicale dc bază",
+      "a) *acopcră copiata datorată de persoana asigurată, conform prevederilor legale",
+      "b) acoperă total sau parțial plata pentru orice tip de servicii necuprinse în pachetul de servicii medicale de bază",
       "c) nu acoperă copiata datorată de persoana asigurată"
     ]
   },
@@ -2840,16 +2840,16 @@
     "raspunsuri": [
       "a) acoperă copiata datorată de asigurat, în condițiile legislației aplicabile",
       "b) *acoperă integral sau parțial plata pentru toate serviciile care nu sunt cuprinse în pachetul de servicii medicale de bază",
-      "c) acoperă total sau parțial plata doar pentru serviciile cuprinse în pachetul dc servicii medicale dc bază"
+      "c) acoperă total sau parțial plata doar pentru serviciile cuprinse în pachetul de servicii medicale de bază"
     ]
   },
   {
     "nr": "317",
-    "intrebare": "Prima dc asigurare, în cazul asigurărilor dc sănătate, poate fi modificată anual dc către asigurător, în funcție dc:",
+    "intrebare": "Prima de asigurare, în cazul asigurărilor de sănătate, poate fi modificată anual de către asigurător, în funcție de:",
     "raspunsuri": [
       "a) evoluția salariului mediu pe economie",
-      "b) numărul dc recomandări date dc către persoana asigurată",
-      "c) *vârsta persoanei asigurate, rata inflației, valoarea despăgubirilor plătite clientului și valoarea totală a despăgubirilor înregistrate pc produsul dc asigurare în anul anterior dc contract"
+      "b) numărul de recomandări date de către persoana asigurată",
+      "c) *vârsta persoanei asigurate, rata inflației, valoarea despăgubirilor plătite clientului și valoarea totală a despăgubirilor înregistrate pe produsul de asigurare în anul anterior de contract"
     ]
   },
   {
@@ -2858,15 +2858,15 @@
     "raspunsuri": [
       "a) decesul din orice cauză",
       "b) *spitalizarea, cu sau fără intervenție chirurgicală",
-      "c) incapacitatea permanentă dc muncă, urmare a unei boli sau a unui accident"
+      "c) incapacitatea permanentă de muncă, urmare a unei boli sau a unui accident"
     ]
   },
   {
     "nr": "319",
-    "intrebare": "în cazul asigurării dc sănătate:",
+    "intrebare": "în cazul asigurării de sănătate:",
     "raspunsuri": [
       "a) *se acoperă spitalizarea doar dacă există un număr minim de zile de spitalizare",
-      "b) se acoperă spitalizarea indiferent dc numărul dc zile dc spitalizare",
+      "b) se acoperă spitalizarea indiferent de numărul de zile de spitalizare",
       "c) este acoperită doar intervenția chirurgicală"
     ]
   },
@@ -2890,7 +2890,7 @@
   },
   {
     "nr": "322",
-    "intrebare": "In cazul unei asigurări suplimentare dc spitalizare, riscurile acoperite pot fi:",
+    "intrebare": "In cazul unei asigurări suplimentare de spitalizare, riscurile acoperite pot fi:",
     "raspunsuri": [
       "a) doar cclc care rezultă în urma producerii unui accident",
       "b) doar cele care rezultă în urma îmbolnăvirii",
@@ -2901,7 +2901,7 @@
     "nr": "323",
     "intrebare": "în cazul asigurării suplimentare de invaliditate permanentă, indemnizația de asigurare:",
     "raspunsuri": [
-      "a) *cstc reprezentată, dc obicei, printr-un procent aplicat sumei asigurate, procent ce diferă în funcție dc gravitatea invalidității și care este specificat în condițiile contractuale",
+      "a) *cstc reprezentată, de obicei, printr-un procent aplicat sumei asigurate, procent ce diferă în funcție de gravitatea invalidității și care este specificat în condițiile contractuale",
       "b) depinde de vârsta persoanei asigurate",
       "c) depinde de durata contractului de asigurare"
     ]
@@ -2917,7 +2917,7 @@
   },
   {
     "nr": "325",
-    "intrebare": "Prin intermediul asigurării dc accidente se urmărește:",
+    "intrebare": "Prin intermediul asigurării de accidente se urmărește:",
     "raspunsuri": [
       "a) protejarea persoanelor fizice împotriva evenimentelor care pot afecta sănătatea corporală sau viața altor persoane, produse doar din vina asiguratului",
       "b) protejarea persoanelor fizice împotriva îmbolnăvirilor",
@@ -2937,16 +2937,16 @@
     "nr": "327",
     "intrebare": "Pot fi incluse. în polița de asigurare de accidente, persoane:",
     "raspunsuri": [
-      "a) indiferent dc vârsta pe care o au",
+      "a) indiferent de vârsta pe care o au",
       "b) cu vârsta cuprinsă între 18 și 70 de ani",
-      "c) * cu vârsta cuprinsă între 16 și 70 dc ani"
+      "c) * cu vârsta cuprinsă între 16 și 70 de ani"
     ]
   },
   {
     "nr": "328",
     "intrebare": "Asigurarea de accidente:",
     "raspunsuri": [
-      "a) este opțională, indiferent dc domeniul dc activitate al organizației",
+      "a) este opțională, indiferent de domeniul de activitate al organizației",
       "b) *poate fi impusă prin lege, pentru activități specifice sau prin politica de protejare a angajaților unei organizații a cărei activitate presupune riscuri semnificative",
       "c) este obligatorie pentru toate persoanele cu vârsta mai mare de 35 de ani, indiferent de domeniul de activitate"
     ]
@@ -2955,7 +2955,7 @@
     "nr": "329",
     "intrebare": "Identificați riscurile excluse de asigurarea de accidente:",
     "raspunsuri": [
-      "a) accidentele dc circulație, accidentele rezultate din practicarea sporturilor, accidentele provocate dc funcționarea mașinilor, aparatelor sau instalațiilor",
+      "a) accidentele de circulație, accidentele rezultate din practicarea sporturilor, accidentele provocate de funcționarea mașinilor, aparatelor sau instalațiilor",
       "b) *diagnosticarea cu o afecțiune gravă, incapacitatea permanentă de muncă generată de o îmbolnăvire și spitalizarea ca urmare a îmbolnăvirii",
       "c) accidentele produse ca urmare a acțiunii armelor de foc, alunecării de teren, fulgerului, trăsnetului și exploziilor"
     ]
@@ -2964,14 +2964,14 @@
     "nr": "330",
     "intrebare": "Asigurarea de accidente exclude acoperirea riscului cauzat de:",
     "raspunsuri": [
-      "a) *intoxicări ca urmare a abuzului dc medicamente și droguri",
+      "a) *intoxicări ca urmare a abuzului de medicamente și droguri",
       "b) atacul unei alte persoane sau al animalelor",
       "c) efortul fizic excesiv și subit determinat de evenimente de forță majoră pentru salvarea vieții"
     ]
   },
   {
     "nr": "331",
-    "intrebare": "Intoxicațiile determinate dc consumul dc alcool sc numără printre excluderile asigurării dc accidente?",
+    "intrebare": "Intoxicațiile determinate de consumul de alcool se numără printre excluderile asigurării de accidente?",
     "raspunsuri": [
       "a) acest risc este preluat începând cu anul al doilea de valabilitate a contractului",
       "b) *da",
@@ -2989,10 +2989,10 @@
   },
   {
     "nr": "333",
-    "intrebare": "Contractantul persoană juridică, plătitor dc impozit pc venit, beneficiază dc deductibilitatea fiscală a asigurărilor dc sănătate atunci când:",
+    "intrebare": "Contractantul persoană juridică, plătitor de impozit pe venit, beneficiază de deductibilitatea fiscală a asigurărilor de sănătate atunci când:",
     "raspunsuri": [
-      "a) plătește impozitul pc venit",
-      "b) plătește impozitul pc profit",
+      "a) plătește impozitul pe venit",
+      "b) plătește impozitul pe profit",
       "c) *plătește impozitul pe dividend"
     ]
   },
@@ -3007,7 +3007,7 @@
   },
   {
     "nr": "335",
-    "intrebare": "în cc măsură este despăgubită, printr-o asigurare dc sănătate, orice afecțiune sau boală preexistentă, ncdcclarată în chestionarul medical din cererea de asigurare și/sau neacceptată de asigurător?",
+    "intrebare": "în cc măsură este despăgubită, printr-o asigurare de sănătate, orice afecțiune sau boală preexistentă, ncdcclarată în chestionarul medical din cererea de asigurare și/sau neacceptată de asigurător?",
     "raspunsuri": [
       "a) este acoperită dacă persoana asigurată recunoaște că a omis să o declare",
       "b) *situația nu este acoperită prin asigurarea de sănătate",
@@ -3046,7 +3046,7 @@
     "intrebare": "Clientul distribuitorului în asigurări și/sau reasigurări poate fi definit drept:",
     "raspunsuri": [
       "a) numai asiguratul și eventualii co-asigurați",
-      "b) *oricc persoană sau orice organizație care arc un rol în cadrul procesului dc asigurare: contractant, asigurat/asigurați/co-asigurați, beneficiari ai contractului de asigurare",
+      "b) *oricc persoană sau orice organizație care are un rol în cadrul procesului de asigurare: contractant, asigurat/asigurați/co-asigurați, beneficiari ai contractului de asigurare",
       "c) numai contractantul poliței de asigurare"
     ]
   },
@@ -3055,13 +3055,13 @@
     "intrebare": "Categoria de clienți care achiziționează soluții de asigurare în scopuri private, pentru propria persoană sau pentru membrii ai familiei este",
     "raspunsuri": [
       "a) clienților instituții publice",
-      "b) clienților organizații persoane juridice, așa-numitul segment dc business, corporale sau B2B",
+      "b) clienților organizații persoane juridice, așa-numitul segment de business, corporale sau B2B",
       "c) *clienților individuali, persoane fizice, așa-numitul segment de retail sau B2C"
     ]
   },
   {
     "nr": "341",
-    "intrebare": "Categoria dc clicnți care achiziționează o marc varietate dc soluții dc asigurare pentru protecția membrilor lor. respectiv a patrimoniilor pe care le posedă este cea a:",
+    "intrebare": "Categoria de clienți care achiziționează o mare varietate de soluții de asigurare pentru protecția membrilor lor. respectiv a patrimoniilor pe care le posedă este cea a:",
     "raspunsuri": [
       "a) clienților ”premium”",
       "b) *clienților persoane juridice, așa-numitul segment de business, corporale sau B2B",
@@ -3074,14 +3074,14 @@
     "raspunsuri": [
       "a) *organizații private și instituții publice",
       "b) clienți business mici și clienți business mari",
-      "c) clicnți instituții publice și clicnți Instituții Mici și Mijlocii"
+      "c) clienți instituții publice și clienți Instituții Mici și Mijlocii"
     ]
   },
   {
     "nr": "343",
     "intrebare": "Pentru ca în piața de asigurări să se poată realiza o tranzacție (încheia și derula un contract de asigurare), este nevoie de existența și exercitarea la nivelul clientului de asigurări a:",
     "raspunsuri": [
-      "a) *trci roluri precise: cumpărător, plătitor și utilizator",
+      "a) *trei roluri precise: cumpărător, plătitor și utilizator",
       "b) două roluri precise: plătitor și utilizator",
       "c) două roluri precise: cumpărător și utilizator"
     ]
@@ -3108,14 +3108,14 @@
     "nr": "346",
     "intrebare": "Practica asigurărilor identifică câteva motive pentru care se produce fenomenul de specializare a rolurilor la nivelul clientului, în cumpărător, plătitor și utilizator, iar unul dintre motive este:",
     "raspunsuri": [
-      "a) *lipsa dc cunoștințe în domeniul asigurărilor",
-      "b) fenomenul dc antiselecție a riscurilor",
-      "c) procesul dc evaluare a riscurilor (undcrwriting)"
+      "a) *lipsa de cunoștințe în domeniul asigurărilor",
+      "b) fenomenul de antiselecție a riscurilor",
+      "c) procesul de evaluare a riscurilor (undcrwriting)"
     ]
   },
   {
     "nr": "347",
-    "intrebare": "Situația în care un produs dc asigurare cu segment dc capitalizare pentru finanțarea studiilor copiilor este achiziționat dc către părinte pentru copilul său, este un exemplu în care:",
+    "intrebare": "Situația în care un produs de asigurare cu segment de capitalizare pentru finanțarea studiilor copiilor este achiziționat de către părinte pentru copilul său, este un exemplu în care:",
     "raspunsuri": [
       "a) utilizatorul este cumpărător și plătitor",
       "b) *utilizatorul nu este nici cumpărător, nici plătitor",
@@ -3124,7 +3124,7 @@
   },
   {
     "nr": "348",
-    "intrebare": "Situația în care directorul general al unei companii deleagă sarcina achiziționării unei asigurări de răspundere civilă managerială către directorul dc achiziții, sau către directorul financiar, este un exemplu în care:",
+    "intrebare": "Situația în care directorul general al unei companii deleagă sarcina achiziționării unei asigurări de răspundere civilă managerială către directorul de achiziții, sau către directorul financiar, este un exemplu în care:",
     "raspunsuri": [
       "a) utilizatorul este cumpărător și plătitor",
       "b) utilizatorul nu este nici cumpărător, nici plătitor",
@@ -3154,16 +3154,16 @@
     "intrebare": "Beneficiile generate de către un client loial la nivelul distribuitorului în asigurări și/sau reasigurări sunt numeroase și diverse, printre cele mai relevante aflându-se:",
     "raspunsuri": [
       "a) *un client loial continuă să își deruleze afacerile cu distribuitorul în asigurări și/sau reasigurări, mai precis își duce la maturitate polițele, fie că e vorba de asigurări de viață, sănătate, bunuri, de riscuri financiare sau răspundere civilă",
-      "b) un client loial apelează la același distribuitor în asigurări și/sau reasigurări doar dacă este vorba dc asigurările facultative",
+      "b) un client loial apelează la același distribuitor în asigurări și/sau reasigurări doar dacă este vorba de asigurările facultative",
       "c) un client loial apelează la același distribuitor în asigurări și/sau reasigurări doar dacă este vorba de asigurările obligatorii"
     ]
   },
   {
     "nr": "352",
-    "intrebare": "Beneficiile generate dc către un client loial, la nivelul distribuitorului în asigurări și/sau reasigurări, sunt numeroase și diverse, printre cele mai relevante aflându-se:",
+    "intrebare": "Beneficiile generate de către un client loial, la nivelul distribuitorului în asigurări și/sau reasigurări, sunt numeroase și diverse, printre cele mai relevante aflându-se:",
     "raspunsuri": [
-      "a) *un client loial, atunci cât arc o nouă necesitate dc protecție financiară. își contactează același distribuitor în asigurări și/sau reasigurări pentru a-i analiza în detaliu respectiva necesitate, pentru a-i conccpc soluții financiare pentru acoperirea acesteia",
-      "b) un client loial achiziționează mai multe asigurări decât arc nevoie, doar ca să își arate mulțumirea față dc distribuitorul său în asigurări și/sau reasigurări",
+      "a) *un client loial, atunci cât are o nouă necesitate de protecție financiară. își contactează același distribuitor în asigurări și/sau reasigurări pentru a-i analiza în detaliu respectiva necesitate, pentru a-i conccpc soluții financiare pentru acoperirea acesteia",
+      "b) un client loial achiziționează mai multe asigurări decât are nevoie, doar ca să își arate mulțumirea față de distribuitorul său în asigurări și/sau reasigurări",
       "c) un client loial apelează la același distribuitor în asigurări și/sau reasigurări doar dacă acesta îi acordă reduceri pentru prima de asigurare"
     ]
   },
@@ -3178,16 +3178,16 @@
   },
   {
     "nr": "354",
-    "intrebare": "Prospectarea reprezintă activitatea dc căutare și identificare dc noi potențiali clicnți, respectiv alcătuirea \"Listei de potențiali clicnți”. în cadrul procesului dc vânzare, aceasta face parte din etapa:",
+    "intrebare": "Prospectarea reprezintă activitatea de căutare și identificare de noi potențiali clienți, respectiv alcătuirea \"Listei de potențiali clienți”. în cadrul procesului de vânzare, aceasta face parte din etapa:",
     "raspunsuri": [
-      "a) dc vânzare",
+      "a) de vânzare",
       "b) *de pre-vânzare",
       "c) de posl-vânzare"
     ]
   },
   {
     "nr": "355",
-    "intrebare": "Potențialii clicnți sunt cei care urmează să fie abordați dc către distribuitorul în asigurări și/sau reasigurări deoarece întrunesc caracteristicile:",
+    "intrebare": "Potențialii clienți sunt cei care urmează să fie abordați de către distribuitorul în asigurări și/sau reasigurări deoarece întrunesc caracteristicile:",
     "raspunsuri": [
       "a) *au nevoie de un produs de asigurare: dețin bunuri ce necesită a fi protejate, sau dependenți financiari precum copii sau părinți în vârstă",
       "b) suni doar persoane care locuiesc în zone urbane",
@@ -3223,7 +3223,7 @@
   },
   {
     "nr": "359",
-    "intrebare": "Etapa procesului de vânzare în care obiectivul distribuitorului în asigurări este să obțină cât mai multe informații privind necesitățile de protecție financiară, planurile de viitor, posibilitățile financiare ale clientului său, respectiv de existența anumitor produse de asigurare, informații pc baza cărora va conccpc soluția financiară, este cunoscută ca fiind etapa:",
+    "intrebare": "Etapa procesului de vânzare în care obiectivul distribuitorului în asigurări este să obțină cât mai multe informații privind necesitățile de protecție financiară, planurile de viitor, posibilitățile financiare ale clientului său, respectiv de existența anumitor produse de asigurare, informații pe baza cărora va conccpc soluția financiară, este cunoscută ca fiind etapa:",
     "raspunsuri": [
       "a) post-vânzare",
       "b)* identificare a necesităților financiare ale clientului",
@@ -3234,7 +3234,7 @@
     "nr": "360",
     "intrebare": "Soluția financiară pentru un client individual, concepută de către distribuitorul în asigurări și/sau reasigurări, poate să fie alcătuită:",
     "raspunsuri": [
-      "a) doar dintr-un singur produs (dc exemplu, o asigurare dc viață cu acumulare tip Unit Linkcd, cu clauze suplimentare pentru riscurile dc spitalizare din accident sau boală, inclusiv pentru co-asigurații soție și copil minor)",
+      "a) doar dintr-un singur produs (de exemplu, o asigurare de viață cu acumulare tip Unit Linkcd, cu clauze suplimentare pentru riscurile de spitalizare din accident sau boală, inclusiv pentru co-asigurații soție și copil minor)",
       "b) *dintr-o combinație de produse: asigurarea de viață menționată la punctul precedent, precum și o asigurare facultativă de locuință (cu încheierea obligatorie a asigurării PAD), precum și o asigurare Casco (cu încheierea obligatorie a unei asigurări RCA)",
       "c) doar dintr-o combinație de asigurare obligatorie și asigurare facultativă (de exemplu, RCA + Casco, sau PAD + Asigurare facultativă a locuinței)"
     ]
@@ -3334,7 +3334,7 @@
     "intrebare": "Atunci când nivelul de calitate perceput al unui serviciu este mai mic. sub nivelul de calitate al serviciului așteptat, se constată:",
     "raspunsuri": [
       "a) o asimetrie informațională",
-      "b) *un decalaj dc servicii",
+      "b) *un decalaj de servicii",
       "c) o antiselecție de riscuri"
     ]
   },
@@ -3459,14 +3459,14 @@
     "nr": "385",
     "intrebare": "Privind Modelul CARESS al ascultării active, următoarea afirmație este corectă:",
     "raspunsuri": [
-      "a) Elementul Cercetează încurajează distribuitorul în asigurări și/sau reasigurări să desfășoare o activitate de prospectare cât mai consistentă. înainte de a începe abordarea potențialilor clicnți",
+      "a) Elementul Cercetează încurajează distribuitorul în asigurări și/sau reasigurări să desfășoare o activitate de prospectare cât mai consistentă. înainte de a începe abordarea potențialilor clienți",
       "b) *Elementul Controlează-ți/Gestionează-ți emoțiile reprezintă o activitate de autocontrol a reacțiilor negative pe care distribuitorul în asigurări și/sau reasigurări le-ar putea avea ca răspuns la ceea ce clientul ar putea spune sau face, respectiv situații în care clientul, repetat, nu înțelege anumite mesaje (sau nu vrea să le înțeleagă)",
       "c) Modelul CARESS este un concept pur teoretic, fără aplicabilitate practică în domeniul distribuției de asigurări deoarece distribuitorul în asigurări și/sau reasigurări nu trebuie să-și cenzureze reacțiile negative față de mesajele ofensatoare ale prospectului"
     ]
   },
   {
     "nr": "386",
-    "intrebare": "Entitatea implicată în procesul de asigurare care angajează relația de asigurare și arc rolul de a achita primele scadente este:",
+    "intrebare": "Entitatea implicată în procesul de asigurare care angajează relația de asigurare și are rolul de a achita primele scadente este:",
     "raspunsuri": [
       "a) asiguratul",
       "b) *contractantul",
@@ -3488,12 +3488,12 @@
     "raspunsuri": [
       "a) asigurat",
       "b) contractant",
-      "c) *bcncficiar"
+      "c) *beneficiar"
     ]
   },
   {
     "nr": "389",
-    "intrebare": "Se consideră că sunt clicnți ai distribuitorului în asigurări și/sau reasigurări:",
+    "intrebare": "Se consideră că sunt clienți ai distribuitorului în asigurări și/sau reasigurări:",
     "raspunsuri": [
       "a) doar asiguratul și contractantul",
       "b) doar contractantul persoană juridică",
@@ -3511,7 +3511,7 @@
   },
   {
     "nr": "391",
-    "intrebare": "Segmentul de clicnți organizații mai poartă denumirea de:",
+    "intrebare": "Segmentul de clienți organizații mai poartă denumirea de:",
     "raspunsuri": [
       "a) retail sau B2C (Business-to-Consumer)",
       "b) *corporatc sau B2B (Busincss-to-Busincss)",
@@ -3568,8 +3568,8 @@
     "intrebare": "Beneficiile generate de către un client loial, la nivelul distribuitorului în asigurări și/sau reasigurări, sunt numeroase și diverse, printre care:",
     "raspunsuri": [
       "a) *un client loial apelează la același distribuitor în asigurări și/sau reasigurări pentru reînnoirea asigurărilor sale, atunci când acestea expiră",
-      "b) un client loial apelează la același distribuitor în asigurări și/sau reasigurări doar dacă este vorba dc asigurările facultative",
-      "c) un client loial apelează la același distribuitor în asigurări și/sau reasigurări doar dacă este vorba dc asigurările obligatorii"
+      "b) un client loial apelează la același distribuitor în asigurări și/sau reasigurări doar dacă este vorba de asigurările facultative",
+      "c) un client loial apelează la același distribuitor în asigurări și/sau reasigurări doar dacă este vorba de asigurările obligatorii"
     ]
   },
   {
@@ -3578,15 +3578,15 @@
     "raspunsuri": [
       "a) un client loial apelează la același distribuitor de asigurări doar dacă este vorba de noi asigurări facultative, încheiate pe durata de minim 5 ani",
       "b) *un client loial îl recomandă pe distribuitorul în asigurări și/sau reasigurări prietenilor, cunoștințelor și colegilor, adică devine un generator de noi clienți pentru distribuitorul în cauză",
-      "c) un client loial apelează la același distribuitor în asigurări și/sau reasigurări doar dacă este vorba dc asigurări cu componentă investițională"
+      "c) un client loial apelează la același distribuitor în asigurări și/sau reasigurări doar dacă este vorba de asigurări cu componentă investițională"
     ]
   },
   {
     "nr": "399",
-    "intrebare": "Activitatea dc Prospectare a pielei sc încadrează, în cadrul procesului de vânzare, în etapa:",
+    "intrebare": "Activitatea de Prospectare a pielei se încadrează, în cadrul procesului de vânzare, în etapa:",
     "raspunsuri": [
       "a) *pre-vânzare",
-      "b) procesul dc vânzare efectiv",
+      "b) procesul de vânzare efectiv",
       "c) post-vânzarc"
     ]
   },
@@ -3610,7 +3610,7 @@
   },
   {
     "nr": "402",
-    "intrebare": "Etapa din cadrul procesului dc distribuție a produselor de asigurare care poate fi considerată fundamentul procesului de vânzare consultativă poartă denumirea dc:",
+    "intrebare": "Etapa din cadrul procesului de distribuție a produselor de asigurare care poate fi considerată fundamentul procesului de vânzare consultativă poartă denumirea de:",
     "raspunsuri": [
       "a) prospectare",
       "b) *identificarea necesităților de protecție financiară a clientului",
@@ -3640,7 +3640,7 @@
     "intrebare": "O stare, un context al unei entități care este nesatistacătoare. care crează disconfort și care determină acea entitate să întreprindă o acțiune clară în direcția diminuării sau chiar eliminării acelui disconfort, este cunoscută drept:",
     "raspunsuri": [
       "a) dorință",
-      "b) *ncccsitatc",
+      "b) *necesitate",
       "c) percepție"
     ]
   },
@@ -3658,15 +3658,15 @@
     "intrebare": "Necesitățile unei persoane sunt determinate:",
     "raspunsuri": [
       "a) doar de caracteristicile personale ale acelui individ",
-      "b) doar dc caracteristicile fizice ale mediului în care acea persoană trăiește",
-      "c) *atât dc caracteristicile personale ale acelui individ, cât și dc caracteristicile fizice ale mediului în care acea persoană trăiește"
+      "b) doar de caracteristicile fizice ale mediului în care acea persoană trăiește",
+      "c) *atât de caracteristicile personale ale acelui individ, cât și de caracteristicile fizice ale mediului în care acea persoană trăiește"
     ]
   },
   {
     "nr": "408",
     "intrebare": "\"Formula” corectă a decalajului de servicii este:",
     "raspunsuri": [
-      "a) decalajul dc servicii = Serviciul așteptat + Serviciul perceput",
+      "a) decalajul de servicii = Serviciul așteptat + Serviciul perceput",
       "b) decalajul de servicii = Serviciul perceput - Serviciul așteptat",
       "c) *decalajul de servicii = Serviciul așteptat - Serviciul perceput"
     ]
@@ -3682,7 +3682,7 @@
   },
   {
     "nr": "410",
-    "intrebare": "Indicați care din următoarele cuvinte sunt recomandate a se utiliza de către distribuitorul în asigurări și/sau reasigurări în comunicarea cu clicnții săi:",
+    "intrebare": "Indicați care din următoarele cuvinte sunt recomandate a se utiliza de către distribuitorul în asigurări și/sau reasigurări în comunicarea cu clienții săi:",
     "raspunsuri": [
       "a) obligație, cost, cșcc. răspundere",
       "b) pierdere, contract, cheltuială, plată",
@@ -3712,8 +3712,8 @@
     "intrebare": "Precizați cine răspunde de îndeplinirea cerințelor de competență profesională a distribuitorilor în asigurări și/sau reasigurări:",
     "raspunsuri": [
       "a) Autoritatea de Supraveghere Financiară",
-      "b)* societățile de asigurare, respectiv intermediarii principali, prin intermediul cărora destașoară activitatea de distribuție",
-      "c) furnizorii dc programe autorizați dc Autoritatea dc Supraveghere Financiară"
+      "b)* societățile de asigurare, respectiv intermediarii principali, prin intermediul cărora desfășoară activitatea de distribuție",
+      "c) furnizorii de programe autorizați de Autoritatea de Supraveghere Financiară"
     ]
   },
   {
@@ -3727,11 +3727,11 @@
   },
   {
     "nr": "415",
-    "intrebare": "Registrul furnizorilor dc programe poate fi consultat:",
+    "intrebare": "Registrul furnizorilor de programe poate fi consultat:",
     "raspunsuri": [
       "a)* pe site-ul Autorității de Supraveghere Financiară",
-      "b) pc sitc-ul Institutului dc Studii Finaciarc",
-      "c) pc sitc-ul Autorității Naționale pentru Calificări"
+      "b) pe sitc-ul Institutului de Studii Finaciarc",
+      "c) pe sitc-ul Autorității Naționale pentru Calificări"
     ]
   },
   {
@@ -3747,7 +3747,7 @@
     "nr": "417",
     "intrebare": "Atestarea absolvirii programelor de pregătire profesională continuă în domeniul distribuției de asigurări, se documentează prin:",
     "raspunsuri": [
-      "a)* adeverința anuală emisă dc 1SF privind evidența creditelor dc pregătire profesională continuă și certificatul dc absolvire a examenului pentru pregătirea profesională continuă susținut la ISF, certificat care se obține la perioade succesive dc 3 ani, fără depășirea termenului dc valabilitate a certificatului de absolvire deținut anterior",
+      "a)* adeverința anuală emisă de 1SF privind evidența creditelor de pregătire profesională continuă și certificatul de absolvire a examenului pentru pregătirea profesională continuă susținut la ISF, certificat care se obține la perioade succesive de 3 ani, fără depășirea termenului de valabilitate a certificatului de absolvire deținut anterior",
       "b) certificatul de absolvire a examenului susținut la ISF înainte de expirarea termenului de valabilitate al certificatului de absolvire deținut pentru primul ciclu de pregătire",
       "că documentul emis de ISF prin care se atestă acumularea, în fiecare an calendaristic, a 20 de credite de pregătire profesională continuă"
     ]
@@ -3756,16 +3756,16 @@
     "nr": "418",
     "intrebare": "Examenul de absolvire a programelor de pregătire profesională în domeniul distribuției de asigurări este organizat de:",
     "raspunsuri": [
-      "a) Autoritatea dc Supraveghere Financiară",
-      "b)* Institutul dc Studii Financiare",
-      "c) Furnizorii dc programe autorizați dc Autoritatea dc Supraveghere Financiară"
+      "a) Autoritatea de Supraveghere Financiară",
+      "b)* Institutul de Studii Financiare",
+      "c) Furnizorii de programe autorizați de Autoritatea de Supraveghere Financiară"
     ]
   },
   {
     "nr": "419",
     "intrebare": "Pentru menținerea evidențelor privind pregătirea profesională continuă în domeniul distribuției de asigurări, distribuitorul în asigurări și/sau reasigurări trebuie să:",
     "raspunsuri": [
-      "a) facă dovadă absolvirii ciclului liceal superior cu diplomă dc bacalaureat",
+      "a) facă dovadă absolvirii ciclului liceal superior cu diplomă de bacalaureat",
       "b)* dețină cont activ în Platforma ISF",
       "c) parcurgă un program de mentorat de minimum 3 ore de pregătire practică sub îndrumarea unui mentor din cadrul societății de asigurare"
     ]
@@ -3775,17 +3775,17 @@
     "intrebare": "Examenul de absolvire în domeniul distribuției de asigurări:",
     "raspunsuri": [
       "a)* are durata de 40 de minute",
-      "b) sc organizează doar la cererea furnizorilor dc programe",
-      "c) conține întrebări cu multiple variante corcctc dc răspuns"
+      "b) se organizează doar la cererea furnizorilor de programe",
+      "c) conține întrebări cu multiple variante corcctc de răspuns"
     ]
   },
   {
     "nr": "421",
-    "intrebare": "Pentru promovarea examenului în domeniul distribuției dc asigurări, candidatul trebuie să acumuleze minimum:",
+    "intrebare": "Pentru promovarea examenului în domeniul distribuției de asigurări, candidatul trebuie să acumuleze minimum:",
     "raspunsuri": [
       "a) 32 de punctes",
-      "b)* 28 dc puncte",
-      "c) 35 dc puncte"
+      "b)* 28 de puncte",
+      "c) 35 de puncte"
     ]
   },
   {
@@ -3794,15 +3794,15 @@
     "raspunsuri": [
       "a) până când este declarat admis",
       "b)* fără a depăși 6 luni de la data parcurgerii programului de pregătire profesională inițială",
-      "c) după reluarea ciclului dc pregătire profesională inițială"
+      "c) după reluarea ciclului de pregătire profesională inițială"
     ]
   },
   {
     "nr": "423",
     "intrebare": "Candidatul care nu promovează examenul de pregătire profesională continuă are dreptul să susțină un nou examen, ori de câte ori dorește, în aceleași condiții:",
     "raspunsuri": [
-      "a)* tară a depăși data dc expirare a certificatului dc absolvire deținut anterior",
-      "b) după finalizarea programului dc pregătire profesională continuă",
+      "a)* tară a depăși data de expirare a certificatului de absolvire deținut anterior",
+      "b) după finalizarea programului de pregătire profesională continuă",
       "c) Iară a depăși 6 luni de la data parcurgerii programului de pregătire profesională continuă"
     ]
   },
@@ -3828,17 +3828,17 @@
     "nr": "426",
     "intrebare": "Valabilitatea certificatului de absolvire a pregătirii profesionale în domeniul distribuției de asigurări este de:",
     "raspunsuri": [
-      "a)* 3 ani dc la data absolvirii examenului și este precizată pe document",
+      "a)* 3 ani de la data absolvirii examenului și este precizată pe document",
       "b) 3 ani de la data expirării certificatului deținut anterior",
-      "c) 3 ani. și sc calculează automat după fiecare examen absolvit raportat la data obținerii certificatului aferent pregătirii profesionale inițiale"
+      "c) 3 ani. și se calculează automat după fiecare examen absolvit raportat la data obținerii certificatului aferent pregătirii profesionale inițiale"
     ]
   },
   {
     "nr": "427",
     "intrebare": "Privind cerințele legale de pregătire profesională continuă, distribuitorii în asigurări și/sau reasigurări au obligația:",
     "raspunsuri": [
-      "a) să susțină, la perioade succesive dc 2 ani, examenul dc absolvire corespunzător ciclului dc pregătire profesională continuă",
-      "b)* să parcurgă. în fiecare an calendaristic, un program dc pregătire profesională continuă dc minimum 1 5 orc",
+      "a) să susțină, la perioade succesive de 2 ani, examenul de absolvire corespunzător ciclului de pregătire profesională continuă",
+      "b)* să parcurgă. în fiecare an calendaristic, un program de pregătire profesională continuă de minimum 1 5 ore",
       "c) să urmeze planul de pregătire profesională continuă impus de departamentul de resurse umane"
     ]
   },
@@ -3848,14 +3848,14 @@
     "raspunsuri": [
       "a) adeverința anuală emisă de furnizorul de programe, respectiv societatea de asigurare, după caz",
       "b)* adeverința emisă de ISF, în fiecare an calendaristic, în baza documentului privind raportarea și evidența pregătirii profesionale continue emis din platforma ISF de către furnizorii de programe, respectiv de societățile de asigurare, după caz",
-      "cl documentul emis dc ISF prin care sc atestă acumularea, în fiecare an calendaristic, a 20 dc credite dc pregătire profesională continuă"
+      "cl documentul emis de ISF prin care se atestă acumularea, în fiecare an calendaristic, a 20 de credite de pregătire profesională continuă"
     ]
   },
   {
     "nr": "429",
     "intrebare": "Programele de pregătire profesională continuă sunt structurate:",
     "raspunsuri": [
-      "a)* pc module dc pregătire, fiecare modul având o durată dc minimum 5 orc",
+      "a)* pe module de pregătire, fiecare modul având o durată de minimum 5 ore",
       "b) conform recomandării lectorilor care asigură livrarea programului",
       "c) pe tematici propuse de furnizorul de programe autorizat"
     ]
@@ -3882,7 +3882,7 @@
     "nr": "432",
     "intrebare": "Distribuitorii în asigurări și/sau reasigurări își pot pierde dreptul de a profesa dacă:",
     "raspunsuri": [
-      "a) nu dețin asigurare dc răspundere civilă profesională",
+      "a) nu dețin asigurare de răspundere civilă profesională",
       "b)* nu promovează examenul de absolvire a pregătirii profesionale continue până la data expirării certificatului de absolvire deținut anterior",
       "c) nu promovează examenul de absolvire a pregătirii profesionale continue în termen de 6 luni de la data expirării certificatului de absolvire deținut anterior"
     ]
@@ -3891,16 +3891,16 @@
     "nr": "433",
     "intrebare": "Una din cauzele pentru care un distribuitor în asigurări și/sau reasigurări își poate pierde dreptul de profesa o reprezintă:",
     "raspunsuri": [
-      "a)* ncînrcgistrarca. în termenii și condițiile precizate în metodologia dc certificare aplicabilă în vigoare, în contul acestuia din Platforma ISF a creditelor anuale dc pregătire profesională continuă",
+      "a)* ncînrcgistrarca. în termenii și condițiile precizate în metodologia de certificare aplicabilă în vigoare, în contul acestuia din Platforma ISF a creditelor anuale de pregătire profesională continuă",
       "b) subscrierea unui număr redus de contracte de asigurare",
       "c) parcurgerea unui program de pregătire profesională continuă eu durata de 15 ore"
     ]
   },
   {
     "nr": "434",
-    "intrebare": "Un distribuitor în asigurări și/sau reasigurări își poate redobândi dreptul dc a profesa:",
+    "intrebare": "Un distribuitor în asigurări și/sau reasigurări își poate redobândi dreptul de a profesa:",
     "raspunsuri": [
-      "a) prin recuperarea tuturor creditelor dc pregătire profesională continuă într-un interval dc 3 luni",
+      "a) prin recuperarea tuturor creditelor de pregătire profesională continuă într-un interval de 3 luni",
       "b) doar prin reluarea ciclului de pregătire profesională inițială",
       "c)* prin absolvirea unui nou examen de pregătire profesională corespunzător ciclului de pregătire profesională al ultimului certificat de absolvire deținut"
     ]
@@ -3927,9 +3927,9 @@
     "nr": "437",
     "intrebare": "Toate activitățile asociate procesului de certificare și de menținerea evidenței programele de pregătire profesională în domeniul distribuției de asigurări, se derulează prin intermediul:",
     "raspunsuri": [
-      "a) Platformei dc educație financiară realizată dc A.S.F.",
+      "a) Platformei de educație financiară realizată de A.S.F.",
       "b)* Platformei ISF",
-      "c) Platformei furnizorului dc programe"
+      "c) Platformei furnizorului de programe"
     ]
   },
   {
@@ -3938,15 +3938,15 @@
     "raspunsuri": [
       "a)* acumularea, în fiecare an calendaristic, a cel puțin 15 ore (credite) de pregătire profesională continuă și înregistrarea dovezii în contul său din platforma ISF",
       "b) susținerea unui examen de pregătire profesională continuă la perioade succesive de 3 ani de la data obținerii definitivatului",
-      "c) încheierea anuală dc contracte dc asigurare complexe"
+      "c) încheierea anuală de contracte de asigurare complexe"
     ]
   },
   {
     "nr": "439",
     "intrebare": "Un distribuitor în asigurări și/sau reasigurări cu definitivat își poate redobândi dreptul de a profesa:",
     "raspunsuri": [
-      "a)* fără a mai susține examenul de definitivat prin recuperarea tuturor creditelor de pregătire profesională continuă și absolvirea unui nou examen dc pregătire profesională continuă în termen dc 6 luni dc la data la care trebuiau acumulate creditele",
-      "b) prin acumularea a 45 dc orc dc pregătire profesională continuă",
+      "a)* fără a mai susține examenul de definitivat prin recuperarea tuturor creditelor de pregătire profesională continuă și absolvirea unui nou examen de pregătire profesională continuă în termen de 6 luni de la data la care trebuiau acumulate creditele",
+      "b) prin acumularea a 45 de ore de pregătire profesională continuă",
       "c) prin susținerea, în cel mai scurt timp, a unui nou examen de definitivat"
     ]
   },
@@ -3954,7 +3954,7 @@
     "nr": "440",
     "intrebare": "In anul calendaristic în care distribuitorul obține certificatul de absolvire aferent programului de pregătire profesională continuă, acesta:",
     "raspunsuri": [
-      "a)* arc și obligația acumulării și înregistrării în platforma ISF a celor minimum 15 orc (credite) anuale până la data dc 3 1 decembrie a acelui an calendaristic",
+      "a)* are și obligația acumulării și înregistrării în platforma ISF a celor minimum 15 ore (credite) anuale până la data de 3 1 decembrie a acelui an calendaristic",
       "b) are obligația de a obține creditele de pregătire profesională continuă începând cu anul calendaristic următor celui în care a obținut certificatul",
       "c) se poate înscrie la examenul pentru obținerea definitivatului în domeniul distribuției de asigurări"
     ]
