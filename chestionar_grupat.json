@@ -147,7 +147,7 @@
     "nr": "17",
     "intrebare": "Beneficiarul asigurării este persoana care:",
     "raspunsuri": [
-      "a) suportă franșiza. în cazul producerii evenimentului asigurat",
+      "a) suportă franșiza, în cazul producerii evenimentului asigurat",
       "b) plătește prima de asigurare, indiferent cine a încheiat asigurarea",
       "c) *încasează despăgubirea prevăzută în contractul de asigurare"
     ]
@@ -158,7 +158,7 @@
     "raspunsuri": [
       "a) *limita maximă a răspunderii asigurătorului în cazul producerii evenimentului asigurat, care, în unele cazuri, se stabilește prin prevederi legale.",
       "b) despăgubirea pe care o primește beneficiarul, în cazul producerii unei daune parțiale",
-      "c) suma la care beneficiarul dorește să încheie asigurarea și. în funcție de care, plătește prima de asigurare"
+      "c) suma la care beneficiarul dorește să încheie asigurarea și, în funcție de care, plătește prima de asigurare"
     ]
   },
   {
@@ -2586,7 +2586,7 @@
     "nr": "288",
     "intrebare": "Prin asigurarea de călătorie, asigurătorul oferă protecție și pentru:",
     "raspunsuri": [
-      "a) autovătămârilc provocate cu intenție de către asigurat",
+      "a) autovătămările provocate cu intenție de către asigurat",
       "b) îmbolnăviri sau accidente ca urmare a consumului de băuturi alcoolice, droguri, narcotice sau a consumului abuziv de medicamente",
       "c)* cheltuielile de repatriere în cazul decesului persoanei asigurate"
     ]
